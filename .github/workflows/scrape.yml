@@ -1,0 +1,34 @@
+name: Update Market Data
+on:
+  schedule:
+    - cron: "0 0 * * *" # Every night at midnight
+  workflow_dispatch: # Manual trigger button
+
+jobs:
+  scrape_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python main.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add public/data/market_data.json
+          git commit -m "Auto-update market data" || exit 0
+          git push
