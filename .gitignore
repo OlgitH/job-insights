@@ -23,15 +23,6 @@ dist/
 Thumbs.db
 .ipynb_checkpoints
 
-# --- Analysis Outputs ---
-# You want to IGNORE local PNGs so your repo stays clean, 
-# but DO NOT ignore the data folder if you want the website to use it.
-*.png
-*.pdf
-debug_matrix.png
-bristol_priority_matrix.png
-bristol_cleaned_report.png
-targeted_bristol_matrix.png
 
 # --- Next.js / Node.js (If in the same repo) ---
 node_modules/
