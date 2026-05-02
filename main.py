@@ -1,10 +1,6 @@
 import os
 import requests
 import pandas as pd
-import matplotlib.pyplot as plt
-import matplotlib.cm as cm
-import matplotlib.colors as mcolors
-import numpy as np
 from datetime import datetime
 import time
 from dotenv import load_dotenv
@@ -129,47 +125,13 @@ def run_report(tagged_jobs):
     summary.reset_index().to_json(json_path, orient='records')
     print(f"Data exported to {json_path}")
 
-    # --- PLOTTING ---
-    fig = plt.figure(figsize=(16, 28), facecolor='white')
-    ax1 = plt.subplot2grid((5, 1), (0, 0))
-    
-    x_pos = np.arange(len(summary.index))
-    max_f = summary['friction'].max() if summary['friction'].max() > 0 else 30
-    cmap = plt.get_cmap('Reds') 
-    colors = [cmap(mcolors.Normalize(vmin=0, vmax=max_f)(max_f - val)) for val in summary['friction']]
-
-    ax1.bar(x_pos, summary['vacancies'], width=0.8, color=colors, edgecolor='#333333', alpha=0.9)
-    ax1.step(x_pos, summary['target'], where='mid', color='#D2691E', linestyle='--', linewidth=3, label='WECA Target')
-    ax1.set_xticks(x_pos)
-    ax1.set_xticklabels(summary.index, rotation=35, ha='right')
-    ax1.set_title('Cleaned Bristol Matrix: Title-First Priority Filtering', fontsize=20)
-    ax1.legend()
-
-    # Table Area
-    ax2 = plt.subplot2grid((5, 1), (1, 0), rowspan=4)
-    ax2.axis('off')
-    
-    report_y = 1.0
-    for cat in all_themes:
-        ax2.text(0, report_y, f"■ {cat.upper()}", fontsize=12, fontweight='bold', transform=ax2.transAxes)
-        report_y -= 0.012
-        cat_df = df[df['assigned_category'] == cat].sort_values('days_on_market').head(5)
-        if cat_df.empty:
-            ax2.text(0.02, report_y, "No specific vacancies found.", fontsize=9, style='italic', transform=ax2.transAxes)
-            report_y -= 0.015
-        else:
-            for _, row in cat_df.iterrows():
-                title = row['title'][:65]
-                days = int(row['days_on_market'])
-                company_name = str(row.get('company', {}).get('display_name', 'Unknown'))[:25]
-                ax2.text(0.02, report_y, f"{days:2d}d | {title:<68} | {company_name}", fontsize=9, family='monospace', transform=ax2.transAxes)
-                report_y -= 0.012
-        report_y -= 0.01
-
-    plt.tight_layout()
-    img_path = os.path.join(OUTPUT_DIR, 'bristol_cleaned_report.png')
-    plt.savefig(img_path, dpi=300, bbox_inches='tight')
-    print(f"Report image saved to {img_path}")
+    # Export chart-only data (top chart from the old PNG, excluding vacancy list/table details).
+    chart_json_path = os.path.join(OUTPUT_DIR, 'chart_data.json')
+    chart_df = summary[['vacancies', 'target', 'friction']].reset_index().rename(
+        columns={'assigned_category': 'category'}
+    )
+    chart_df.to_json(chart_json_path, orient='records')
+    print(f"Chart data exported to {chart_json_path}")
 
 if __name__ == "__main__":
     raw = fetch_job_market_snapshot()
