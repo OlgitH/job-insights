@@ -120,18 +120,33 @@ def run_report(tagged_jobs):
     }
     summary['target'] = summary.index.map(demand_targets)
 
-    # Export raw data to JSON for Next.js API/Frontend usage
-    json_path = os.path.join(OUTPUT_DIR, 'job_data.json')
-    summary.reset_index().to_json(json_path, orient='records')
-    print(f"Data exported to {json_path}")
+    # Export combined summary + per-job details to JSON for Next.js API/Frontend usage
+    output = []
+    for cat in all_themes:
+        row = summary.loc[cat]
+        cat_jobs = df[df['assigned_category'] == cat].sort_values('days_on_market')
+        jobs_list = [
+            {
+                'title': j.get('title', ''),
+                'company': j.get('company', {}).get('display_name', ''),
+                'salary_min': j.get('salary_min'),
+                'salary_max': j.get('salary_max'),
+                'days_on_market': int((today - pd.to_datetime(j.get('created'))).days),
+            }
+            for _, j in cat_jobs.iterrows()
+        ]
+        output.append({
+            'category': cat,
+            'vacancies': int(row['vacancies']),
+            'friction': round(float(row['friction']), 1),
+            'target': int(row['target']),
+            'jobs': jobs_list,
+        })
 
-    # Export chart-only data (top chart from the old PNG, excluding vacancy list/table details).
-    chart_json_path = os.path.join(OUTPUT_DIR, 'chart_data.json')
-    chart_df = summary[['vacancies', 'target', 'friction']].reset_index().rename(
-        columns={'assigned_category': 'category'}
-    )
-    chart_df.to_json(chart_json_path, orient='records')
-    print(f"Chart data exported to {chart_json_path}")
+    json_path = os.path.join(OUTPUT_DIR, 'job_data.json')
+    with open(json_path, 'w') as f:
+        json.dump(output, f, indent=2)
+    print(f"Data exported to {json_path}")
 
 if __name__ == "__main__":
     raw = fetch_job_market_snapshot()
