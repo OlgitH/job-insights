@@ -2,7 +2,7 @@
   {
     "category": "Green",
     "vacancies": 17,
-    "friction": 21.9,
+    "friction": 22.9,
     "target": 95,
     "jobs": [
       {
@@ -10,140 +10,140 @@
         "company": "Climate17 Ltd",
         "salary_min": 40000.0,
         "salary_max": 45000.0,
-        "days_on_market": 0
+        "days_on_market": 1
       },
       {
         "title": "Asset Manager - Solar farms",
         "company": "Climate17 Ltd",
         "salary_min": 40000.0,
         "salary_max": 55000.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Asset Manager - Solar farms",
         "company": "Climate17",
         "salary_min": 40000.0,
         "salary_max": 45000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Asset Manager - Solar farms",
         "company": "Climate17 Ltd",
         "salary_min": 40000.0,
         "salary_max": 45000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Project Manager - Heat Pumps",
         "company": "Outsource Construction",
         "salary_min": 100339.0,
         "salary_max": 100339.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Solar PV Electrician",
         "company": "Bennett and Game Recruitment LTD",
         "salary_min": 45000.0,
         "salary_max": 50000.0,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Solar/ Electrical Engineer",
         "company": "AECOM",
         "salary_min": 47979.36,
         "salary_max": 47979.36,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Solar/ Electrical Engineer",
         "company": "AECOM",
         "salary_min": 52357.15,
         "salary_max": 52357.15,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Retrofit Designer & Coordinator",
         "company": "Puro Search",
         "salary_min": 40000.0,
         "salary_max": 50000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Retrofit Designer & Coordinator",
         "company": "Purosearch",
         "salary_min": 40000.0,
         "salary_max": 50000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Geotechnical Engineer - Renewables Infrastructure",
         "company": "Climate17 Ltd",
         "salary_min": 46446.6,
         "salary_max": 46446.6,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Solar Roofer",
         "company": "Valoris Group Limited",
         "salary_min": 36960.0,
         "salary_max": 36960.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Lead Industrial Electrician (Training on Solar)",
         "company": "Rise Technical Recruitment",
         "salary_min": 50000.0,
         "salary_max": 55000.0,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "Site Manager - Retrofit",
         "company": "Approach Personnel Ltd",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 38
+        "days_on_market": 39
       },
       {
         "title": "Technician (Solar)",
         "company": "RES",
         "salary_min": 39651.27,
         "salary_max": 39651.27,
-        "days_on_market": 39
+        "days_on_market": 40
       },
       {
         "title": "Plumbing, Gas & Renewables Tutor & Assessor",
         "company": "Educated Appointments",
         "salary_min": 35000.0,
         "salary_max": 40000.0,
-        "days_on_market": 40
+        "days_on_market": 41
       },
       {
         "title": "Design & Technical Engineer \u2013 Renewables Infrastructure",
         "company": "Climate17",
         "salary_min": 44750.74,
         "salary_max": 44750.74,
-        "days_on_market": 113
+        "days_on_market": 114
       }
     ]
   },
   {
     "category": "Software/Tech",
-    "vacancies": 83,
-    "friction": 33.3,
+    "vacancies": 82,
+    "friction": 32.8,
     "target": 70,
     "jobs": [
       {
-        "title": "Software Developer",
-        "company": "CND",
-        "salary_min": 74000.0,
-        "salary_max": 96000.0,
+        "title": "Software Engineer",
+        "company": "Matchtech",
+        "salary_min": 42012.5,
+        "salary_max": 42012.5,
         "days_on_market": 0
       },
       {
-        "title": "Oracle Developer",
-        "company": "Rise Technical Recruitment",
-        "salary_min": 60000.0,
-        "salary_max": 70000.0,
+        "title": "Principal Software Engineer",
+        "company": "Platform Recruitment",
+        "salary_min": 67497.66,
+        "salary_max": 67497.66,
         "days_on_market": 0
       },
       {
@@ -154,23 +154,23 @@
         "days_on_market": 0
       },
       {
-        "title": "Software Engineer (Prometheus / Grafana)",
-        "company": "SRT Marine Systems PLC",
-        "salary_min": 54909.61,
-        "salary_max": 54909.61,
+        "title": "Software Developer",
+        "company": "CND",
+        "salary_min": 74000.0,
+        "salary_max": 96000.0,
         "days_on_market": 0
       },
       {
-        "title": "Software Team Lead",
-        "company": "Smartbox Assistive Technology",
-        "salary_min": 55000.0,
-        "salary_max": 65000.0,
+        "title": "Front-end Developer (React)",
+        "company": "Best.Energy",
+        "salary_min": 44450.07,
+        "salary_max": 44450.07,
         "days_on_market": 0
       },
       {
-        "title": "BI Developer",
-        "company": "Tria Recruitment",
-        "salary_min": 70000.0,
+        "title": "Oracle Developer",
+        "company": "Rise Technical Recruitment",
+        "salary_min": 60000.0,
         "salary_max": 70000.0,
         "days_on_market": 0
       },
@@ -189,6 +189,13 @@
         "days_on_market": 0
       },
       {
+        "title": ".Net Developer",
+        "company": "IO Associates",
+        "salary_min": 70000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 0
+      },
+      {
         "title": "Frontend Developer",
         "company": "Hunter Selection",
         "salary_min": 55000.0,
@@ -196,17 +203,17 @@
         "days_on_market": 0
       },
       {
-        "title": "Software Engineer (Prometheus / Grafana)",
-        "company": "SRT Marine Systems PLC",
-        "salary_min": 50000.0,
-        "salary_max": 75000.0,
-        "days_on_market": 1
+        "title": "Software Team Lead",
+        "company": "Smartbox Assistive Technology",
+        "salary_min": 55000.0,
+        "salary_max": 95000.0,
+        "days_on_market": 0
       },
       {
-        "title": "Senior PHP Developer",
-        "company": "Sanderson",
-        "salary_min": 90618.13,
-        "salary_max": 90618.13,
+        "title": "Software Engineer (Prometheus / Grafana)",
+        "company": "SRT Marine Systems PLC",
+        "salary_min": 54909.61,
+        "salary_max": 54909.61,
         "days_on_market": 1
       },
       {
@@ -214,20 +221,20 @@
         "company": "IC Resources",
         "salary_min": 52844.34,
         "salary_max": 52844.34,
-        "days_on_market": 1
-      },
-      {
-        "title": "Trainee Software Developer",
-        "company": "ITOL Recruit",
-        "salary_min": 30000.0,
-        "salary_max": 45000.0,
         "days_on_market": 2
       },
       {
-        "title": "Senior Software Engineer",
-        "company": "IO Associates",
-        "salary_min": 80000.0,
-        "salary_max": 80000.0,
+        "title": "Software Engineer (Prometheus / Grafana)",
+        "company": "SRT Marine Systems PLC",
+        "salary_min": 50000.0,
+        "salary_max": 75000.0,
+        "days_on_market": 2
+      },
+      {
+        "title": "Senior PHP Developer",
+        "company": "Sanderson",
+        "salary_min": 90618.13,
+        "salary_max": 90618.13,
         "days_on_market": 2
       },
       {
@@ -235,55 +242,48 @@
         "company": "ZENOVO LTD",
         "salary_min": 60000.0,
         "salary_max": 60000.0,
-        "days_on_market": 2
-      },
-      {
-        "title": "Embedded Software Engineer",
-        "company": "ZENOVO LTD",
-        "salary_min": 65000.0,
-        "salary_max": 65000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Vue Developer",
         "company": "Teksystems",
         "salary_min": 104000.0,
         "salary_max": 117000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Web Developer Trainee",
         "company": "ITOL Recruit",
         "salary_min": 29000.0,
         "salary_max": 35000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Junior AI Developer",
         "company": "ITOL Recruit",
         "salary_min": 30000.0,
         "salary_max": 45000.0,
-        "days_on_market": 2
-      },
-      {
-        "title": "Software Engineer",
-        "company": "Hirexa Solutions UK",
-        "salary_min": 51727.24,
-        "salary_max": 51727.24,
         "days_on_market": 3
       },
       {
-        "title": ".Net Developer",
+        "title": "Senior Software Engineer",
         "company": "IO Associates",
-        "salary_min": 70000.0,
-        "salary_max": 70000.0,
+        "salary_min": 80000.0,
+        "salary_max": 80000.0,
+        "days_on_market": 3
+      },
+      {
+        "title": "Trainee Software Developer",
+        "company": "ITOL Recruit",
+        "salary_min": 30000.0,
+        "salary_max": 45000.0,
         "days_on_market": 3
       },
       {
         "title": "Embedded Software Engineer",
         "company": "ZENOVO LTD",
-        "salary_min": 50000.0,
-        "salary_max": 60000.0,
+        "salary_min": 65000.0,
+        "salary_max": 65000.0,
         "days_on_market": 3
       },
       {
@@ -291,20 +291,34 @@
         "company": "Defence",
         "salary_min": 36370.75,
         "salary_max": 36370.75,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
         "title": "Java Developer",
         "company": "Leidos",
         "salary_min": 61649.75,
         "salary_max": 61649.75,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
-        "title": "Software Engineer (PHP, Playwright, k6)",
-        "company": "Sanderson Recruitment",
-        "salary_min": 130000.0,
-        "salary_max": 143000.0,
+        "title": "Software Engineer",
+        "company": "Hirexa Solutions UK",
+        "salary_min": 51727.24,
+        "salary_max": 51727.24,
+        "days_on_market": 4
+      },
+      {
+        "title": ".Net Developer",
+        "company": "IO Associates",
+        "salary_min": 70000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 4
+      },
+      {
+        "title": "Embedded Software Engineer",
+        "company": "ZENOVO LTD",
+        "salary_min": 50000.0,
+        "salary_max": 60000.0,
         "days_on_market": 4
       },
       {
@@ -312,34 +326,34 @@
         "company": "YT Technologies",
         "salary_min": 55000.0,
         "salary_max": 55000.0,
-        "days_on_market": 4
+        "days_on_market": 5
+      },
+      {
+        "title": "Embedded C++ Software Engineer",
+        "company": "ZENOVO LTD",
+        "salary_min": 50000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Software Engineer (PHP, Playwright, k6)",
+        "company": "Sanderson Recruitment",
+        "salary_min": 130000.0,
+        "salary_max": 143000.0,
+        "days_on_market": 5
       },
       {
         "title": ".NET Developer",
         "company": "Noir",
         "salary_min": 65000.0,
         "salary_max": 85000.0,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "IT Process Developer",
         "company": "Artis IT",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 6
-      },
-      {
-        "title": "Software Engineer",
-        "company": "MBDA UK",
-        "salary_min": 60000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 7
-      },
-      {
-        "title": "Software Architect",
-        "company": "MBDA UK",
-        "salary_min": 80000.0,
-        "salary_max": 80000.0,
         "days_on_market": 7
       },
       {
@@ -347,34 +361,20 @@
         "company": "Smartbox Assistive Technology",
         "salary_min": 45000.0,
         "salary_max": 45000.0,
-        "days_on_market": 7
-      },
-      {
-        "title": "Senior Golang Developer",
-        "company": "Breakthrough Talent",
-        "salary_min": 84491.33,
-        "salary_max": 84491.33,
-        "days_on_market": 8
-      },
-      {
-        "title": "C# / C++ Software Engineer",
-        "company": "Certain Advantage",
-        "salary_min": 135200.0,
-        "salary_max": 135200.0,
         "days_on_market": 8
       },
       {
         "title": "Software Engineer",
-        "company": "TRIA",
-        "salary_min": 52258.48,
-        "salary_max": 52258.48,
+        "company": "MBDA UK",
+        "salary_min": 60000.0,
+        "salary_max": 60000.0,
         "days_on_market": 8
       },
       {
-        "title": "C++ Application Software Engineer",
-        "company": "Certain Advantage",
-        "salary_min": 135200.0,
-        "salary_max": 135200.0,
+        "title": "Software Architect",
+        "company": "MBDA UK",
+        "salary_min": 80000.0,
+        "salary_max": 80000.0,
         "days_on_market": 8
       },
       {
@@ -382,34 +382,48 @@
         "company": "Leidos",
         "salary_min": 62584.47,
         "salary_max": 62584.47,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
-        "title": "Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom",
-        "company": "Speechify",
-        "salary_min": 52503.7,
-        "salary_max": 52503.7,
-        "days_on_market": 8
+        "title": "C++ Application Software Engineer",
+        "company": "Certain Advantage",
+        "salary_min": 135200.0,
+        "salary_max": 135200.0,
+        "days_on_market": 9
       },
       {
         "title": "Senior Embedded Software Engineer",
         "company": "Leidos",
         "salary_min": 60950.57,
         "salary_max": 60950.57,
-        "days_on_market": 8
+        "days_on_market": 9
+      },
+      {
+        "title": "Senior Software Engineer, Windows/Desktop Applications - Bristol, United Kingdom",
+        "company": "Speechify",
+        "salary_min": 52503.7,
+        "salary_max": 52503.7,
+        "days_on_market": 9
+      },
+      {
+        "title": "Senior Golang Developer",
+        "company": "Breakthrough Talent",
+        "salary_min": 84491.33,
+        "salary_max": 84491.33,
+        "days_on_market": 9
+      },
+      {
+        "title": "C# / C++ Software Engineer",
+        "company": "Certain Advantage",
+        "salary_min": 135200.0,
+        "salary_max": 135200.0,
+        "days_on_market": 9
       },
       {
         "title": "Principal Software Engineer",
         "company": "Franklin Bates",
         "salary_min": 81296.06,
         "salary_max": 81296.06,
-        "days_on_market": 9
-      },
-      {
-        "title": "Software Engineer",
-        "company": "Dojo",
-        "salary_min": 55597.73,
-        "salary_max": 55597.73,
         "days_on_market": 10
       },
       {
@@ -417,20 +431,13 @@
         "company": "Anson McCade",
         "salary_min": 60819.11,
         "salary_max": 60819.11,
-        "days_on_market": 10
-      },
-      {
-        "title": "AI Software Engineer",
-        "company": "Searchability  Ltd",
-        "salary_min": 45000.0,
-        "salary_max": 80000.0,
         "days_on_market": 11
       },
       {
-        "title": "Software Architect",
-        "company": "Matchtech",
-        "salary_min": 74890.59,
-        "salary_max": 74890.59,
+        "title": "Software Engineer",
+        "company": "Dojo",
+        "salary_min": 55597.73,
+        "salary_max": 55597.73,
         "days_on_market": 11
       },
       {
@@ -438,41 +445,41 @@
         "company": "Sanderson",
         "salary_min": 130000.0,
         "salary_max": 143000.0,
-        "days_on_market": 11
+        "days_on_market": 12
+      },
+      {
+        "title": "Software Architect",
+        "company": "Matchtech",
+        "salary_min": 74890.59,
+        "salary_max": 74890.59,
+        "days_on_market": 12
       },
       {
         "title": "Software Architect",
         "company": "Gattaca PBS",
         "salary_min": 72705.88,
         "salary_max": 72705.88,
-        "days_on_market": 11
+        "days_on_market": 12
       },
       {
         "title": "Software Verification Engineer",
         "company": "Anson McCade",
         "salary_min": 64268.91,
         "salary_max": 64268.91,
-        "days_on_market": 14
+        "days_on_market": 15
       },
       {
         "title": "Embedded Software Engineer",
         "company": "Coalesce Management Consulting",
         "salary_min": 49407.59,
         "salary_max": 49407.59,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Power BI / Power Apps Developer",
         "company": "Methods Business and Digital Technology",
         "salary_min": 60000.0,
         "salary_max": 70000.0,
-        "days_on_market": 16
-      },
-      {
-        "title": "Business Developer",
-        "company": "Howdens Joinery",
-        "salary_min": 39283.95,
-        "salary_max": 39283.95,
         "days_on_market": 17
       },
       {
@@ -480,20 +487,6 @@
         "company": "SR2 REC LTD",
         "salary_min": 50000.0,
         "salary_max": 70000.0,
-        "days_on_market": 17
-      },
-      {
-        "title": "Full Stack Software Engineer",
-        "company": "Computer Futures",
-        "salary_min": 60000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 18
-      },
-      {
-        "title": "FrontEnd software Engineer",
-        "company": "Test Triangle",
-        "salary_min": 55904.67,
-        "salary_max": 55904.67,
         "days_on_market": 18
       },
       {
@@ -501,41 +494,41 @@
         "company": "Avanti",
         "salary_min": 69702.59,
         "salary_max": 69702.59,
-        "days_on_market": 18
+        "days_on_market": 19
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "company": "Computer Futures",
+        "salary_min": 60000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 19
       },
       {
         "title": "Senior C++ Software Developer",
         "company": "Synertec",
         "salary_min": 51680.0,
         "salary_max": 63165.0,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
         "title": "Senior C++ Developer",
         "company": "PLANET RECRUITMENT SERVICES LTD",
         "salary_min": 51000.0,
         "salary_max": 63000.0,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Principal Embedded Software Engineer",
         "company": "IC Resources",
         "salary_min": 64898.87,
         "salary_max": 64898.87,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": ".NET Developer",
         "company": "Kallidus",
         "salary_min": 39174.78,
         "salary_max": 39174.78,
-        "days_on_market": 21
-      },
-      {
-        "title": "Principal Software Engineer",
-        "company": "Platform Recruitment Limited",
-        "salary_min": 80000.0,
-        "salary_max": 80000.0,
         "days_on_market": 22
       },
       {
@@ -543,20 +536,13 @@
         "company": "KO2 Embedded Recruitment Solutions Ltd",
         "salary_min": 73004.72,
         "salary_max": 73004.72,
-        "days_on_market": 22
-      },
-      {
-        "title": "Software Team Lead",
-        "company": "Get Staffed Online Recruitment Limited",
-        "salary_min": 55000.0,
-        "salary_max": 65000.0,
         "days_on_market": 23
       },
       {
-        "title": "PHP Developer - Outside IR35",
-        "company": "Sanderson",
-        "salary_min": 117000.0,
-        "salary_max": 130000.0,
+        "title": "Principal Software Engineer",
+        "company": "Platform Recruitment Limited",
+        "salary_min": 80000.0,
+        "salary_max": 80000.0,
         "days_on_market": 23
       },
       {
@@ -564,20 +550,20 @@
         "company": "Smartbox Assistive Technology",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 23
-      },
-      {
-        "title": "Software Engineer",
-        "company": "MBDA",
-        "salary_min": 55377.54,
-        "salary_max": 55377.54,
         "days_on_market": 24
       },
       {
-        "title": "Principal Embedded Software Engineer",
-        "company": "ZENOVO LTD",
-        "salary_min": 75000.0,
-        "salary_max": 75000.0,
+        "title": "Software Team Lead",
+        "company": "Get Staffed Online Recruitment Limited",
+        "salary_min": 55000.0,
+        "salary_max": 65000.0,
+        "days_on_market": 24
+      },
+      {
+        "title": "PHP Developer - Outside IR35",
+        "company": "Sanderson",
+        "salary_min": 117000.0,
+        "salary_max": 130000.0,
         "days_on_market": 24
       },
       {
@@ -585,20 +571,27 @@
         "company": "Tumelo",
         "salary_min": 50000.0,
         "salary_max": 65000.0,
-        "days_on_market": 24
+        "days_on_market": 25
+      },
+      {
+        "title": "Software Engineer",
+        "company": "MBDA",
+        "salary_min": 55377.54,
+        "salary_max": 55377.54,
+        "days_on_market": 25
       },
       {
         "title": "Full Stack Software Engineer",
         "company": "ZENOVO LTD",
         "salary_min": 80000.0,
         "salary_max": 90000.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
-        "title": "Software Engineer",
-        "company": "Morson Edge",
-        "salary_min": 78675.3,
-        "salary_max": 78675.3,
+        "title": "Principal Embedded Software Engineer",
+        "company": "ZENOVO LTD",
+        "salary_min": 75000.0,
+        "salary_max": 75000.0,
         "days_on_market": 25
       },
       {
@@ -606,119 +599,119 @@
         "company": "Get Staffed Online Recruitment",
         "salary_min": 55000.0,
         "salary_max": 65000.0,
-        "days_on_market": 25
+        "days_on_market": 26
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Morson Edge",
+        "salary_min": 78675.3,
+        "salary_max": 78675.3,
+        "days_on_market": 26
       },
       {
         "title": "Lead Embedded Software Engineer",
         "company": "KO2 Embedded Recruitment Solutions Ltd",
         "salary_min": 65000.0,
         "salary_max": 75000.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Software Engineer C++ Bristol",
         "company": "Akkodis",
         "salary_min": 54921.91,
         "salary_max": 54921.91,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "Embedded Ada Software Engineer",
         "company": "Certain Advantage",
         "salary_min": 141440.0,
         "salary_max": 141440.0,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "Embedded Software Engineer",
         "company": "YT Technologies",
         "salary_min": 55000.0,
         "salary_max": 55000.0,
-        "days_on_market": 28
+        "days_on_market": 29
       },
       {
         "title": "Software Deveopler",
         "company": "Defence",
         "salary_min": 36224.88,
         "salary_max": 36224.88,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Software Engineer",
         "company": "Thales",
         "salary_min": 65009.19,
         "salary_max": 65009.19,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Full Stack Developer",
         "company": "Durell Software",
         "salary_min": 61315.77,
         "salary_max": 61315.77,
-        "days_on_market": 39
+        "days_on_market": 40
       },
       {
         "title": "WorkForce Software, Senior Implementation Consultant - Retail Forecasting and Scheduling",
         "company": "ADP",
         "salary_min": 43706.59,
         "salary_max": 43706.59,
-        "days_on_market": 63
+        "days_on_market": 64
       },
       {
         "title": "Embedded Software Engineer",
         "company": "Advanced Resource Managers",
         "salary_min": 56030.69,
         "salary_max": 56030.69,
-        "days_on_market": 82
+        "days_on_market": 83
       },
       {
         "title": "2026 Graduate Software Engineer - Analysis Tools",
         "company": "Graphcore",
         "salary_min": 42472.8,
         "salary_max": 42472.8,
-        "days_on_market": 84
-      },
-      {
-        "title": "Full Stack Developer (Typescript/NodeJs)",
-        "company": "mezzeIQ",
-        "salary_min": 35455.72,
-        "salary_max": 35455.72,
-        "days_on_market": 95
+        "days_on_market": 85
       },
       {
         "title": "Senior Full Stack Developer (Typescript/NodeJs)",
         "company": "mezzeIQ",
         "salary_min": 40102.91,
         "salary_max": 40102.91,
-        "days_on_market": 95
+        "days_on_market": 96
       },
       {
         "title": "Software Engineer",
         "company": "Rowden",
         "salary_min": 40000.0,
         "salary_max": 75000.0,
-        "days_on_market": 161
+        "days_on_market": 162
       },
       {
         "title": "Sitecore Developer",
         "company": "Work at Acme.com",
         "salary_min": 44581.59,
         "salary_max": 44581.59,
-        "days_on_market": 647
+        "days_on_market": 648
       },
       {
         "title": "Senior Full-Stack Developer",
         "company": "Newicon",
         "salary_min": 42500.0,
         "salary_max": 50000.0,
-        "days_on_market": 647
+        "days_on_market": 648
       }
     ]
   },
   {
     "category": "Design",
     "vacancies": 9,
-    "friction": 166.6,
+    "friction": 167.6,
     "target": 45,
     "jobs": [
       {
@@ -726,70 +719,70 @@
         "company": "Rowden",
         "salary_min": 35000.0,
         "salary_max": 40000.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Content Designer - 6-month FTC",
         "company": "PeopleScout RPO",
         "salary_min": 37606.36,
         "salary_max": 37606.36,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "UI Designer",
         "company": "SRT Marine Systems PLC",
         "salary_min": 35000.0,
         "salary_max": 50000.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "UI Designer",
         "company": "SRT Marine Systems plc",
         "salary_min": 45676.08,
         "salary_max": 45676.08,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "UI Designer",
         "company": "Rowden",
         "salary_min": 45000.0,
         "salary_max": 60000.0,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Graphic Designer",
         "company": "Costello Medical",
         "salary_min": 28000.0,
         "salary_max": 33000.0,
-        "days_on_market": 74
+        "days_on_market": 75
       },
       {
         "title": "Senior Product Designer",
         "company": "Civica",
         "salary_min": 48030.0,
         "salary_max": 48030.0,
-        "days_on_market": 113
+        "days_on_market": 114
       },
       {
         "title": "UX Designer",
         "company": "Newicon",
         "salary_min": 47592.05,
         "salary_max": 47592.05,
-        "days_on_market": 530
+        "days_on_market": 531
       },
       {
         "title": "Senior UX designer",
         "company": "Newicon",
         "salary_min": 38000.0,
         "salary_max": 48000.0,
-        "days_on_market": 647
+        "days_on_market": 648
       }
     ]
   },
   {
     "category": "Engineering",
     "vacancies": 115,
-    "friction": 35.1,
+    "friction": 36.6,
     "target": 80,
     "jobs": [
       {
@@ -800,38 +793,17 @@
         "days_on_market": 0
       },
       {
-        "title": "Commercial Manager (Mechanical Engineering)",
-        "company": "Ernest Gordon Recruitment",
-        "salary_min": 60000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 1
-      },
-      {
         "title": "Senior Civil Engineer",
         "company": "RGB Recruitment",
         "salary_min": 40000.0,
         "salary_max": 60000.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Fluid Mechanical Design Engineer",
         "company": "Guidant Global",
         "salary_min": 97835.0,
         "salary_max": 97835.0,
-        "days_on_market": 2
-      },
-      {
-        "title": "Civil Engineer",
-        "company": "Conrad Consulting Ltd",
-        "salary_min": 40000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 3
-      },
-      {
-        "title": "Associate Civil Engineer",
-        "company": "Amida Consulting Solutions Ltd",
-        "salary_min": 55000.0,
-        "salary_max": 70000.0,
         "days_on_market": 3
       },
       {
@@ -839,34 +811,41 @@
         "company": "Amentum",
         "salary_min": 39847.59,
         "salary_max": 39847.59,
-        "days_on_market": 3
+        "days_on_market": 4
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Conrad Consulting Ltd",
+        "salary_min": 40000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 4
+      },
+      {
+        "title": "Associate Civil Engineer",
+        "company": "Amida Consulting Solutions Ltd",
+        "salary_min": 55000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 4
       },
       {
         "title": "Senior Mechanical Engineer",
         "company": "Matchtech",
         "salary_min": 56000.0,
         "salary_max": 70000.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
         "title": "Mechanical Project Engineer",
         "company": "Rullion",
         "salary_min": 50327.33,
         "salary_max": 50327.33,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Senior Mechanical Engineer - Greater Bristol - HYBRID",
         "company": "ARCA",
         "salary_min": 52838.09,
         "salary_max": 52838.09,
-        "days_on_market": 5
-      },
-      {
-        "title": "Mechanical Engineer - Defence",
-        "company": "Spinwell Global",
-        "salary_min": 64039.48,
-        "salary_max": 64039.48,
         "days_on_market": 6
       },
       {
@@ -874,34 +853,27 @@
         "company": "Evodia Limited",
         "salary_min": 109200.0,
         "salary_max": 148200.0,
-        "days_on_market": 6
+        "days_on_market": 7
+      },
+      {
+        "title": "Mechanical Engineer - Defence",
+        "company": "Spinwell Global",
+        "salary_min": 64039.48,
+        "salary_max": 64039.48,
+        "days_on_market": 7
       },
       {
         "title": "SENIOR MECHANICAL ENGINEER - Hybrid Greater Bristol area",
         "company": "ARCA Resourcing Ltd",
         "salary_min": 54332.03,
         "salary_max": 54332.03,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
         "title": "MECHANICAL ENGINEER - Permanent - Hybrid Greater Bristol area",
         "company": "ARCA Resourcing Ltd",
         "salary_min": 46208.11,
         "salary_max": 46208.11,
-        "days_on_market": 7
-      },
-      {
-        "title": "Mechanical Engineer NPE",
-        "company": "PwE Recruitment Group Limited",
-        "salary_min": 45854.59,
-        "salary_max": 45854.59,
-        "days_on_market": 8
-      },
-      {
-        "title": "Civil Engineer",
-        "company": "Elix Sourcing Solutions Limited",
-        "salary_min": 50000.0,
-        "salary_max": 57000.0,
         "days_on_market": 8
       },
       {
@@ -909,20 +881,27 @@
         "company": "Elix Sourcing Solutions",
         "salary_min": 50000.0,
         "salary_max": 57000.0,
-        "days_on_market": 8
+        "days_on_market": 9
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Elix Sourcing Solutions Limited",
+        "salary_min": 50000.0,
+        "salary_max": 57000.0,
+        "days_on_market": 9
+      },
+      {
+        "title": "Mechanical Engineer NPE",
+        "company": "PwE Recruitment Group Limited",
+        "salary_min": 45854.59,
+        "salary_max": 45854.59,
+        "days_on_market": 9
       },
       {
         "title": "Plumbers & Mechanical Installer",
         "company": "1st Step",
         "salary_min": 59776.35,
         "salary_max": 59776.35,
-        "days_on_market": 8
-      },
-      {
-        "title": "Senior Civil Engineer",
-        "company": "Carrington West",
-        "salary_min": 45000.0,
-        "salary_max": 53000.0,
         "days_on_market": 9
       },
       {
@@ -930,146 +909,111 @@
         "company": "Stantec",
         "salary_min": 49988.38,
         "salary_max": 49988.38,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
-        "title": "Mechanical Design Engineer",
-        "company": "Morson Edge",
-        "salary_min": 83200.0,
-        "salary_max": 104000.0,
-        "days_on_market": 9
-      },
-      {
-        "title": "Mechanical Mate",
-        "company": "O'Neill & Brennan",
-        "salary_min": 43680.0,
-        "salary_max": 45760.0,
-        "days_on_market": 9
-      },
-      {
-        "title": "Mechanical Mate",
-        "company": "O'Neill & Brennan",
-        "salary_min": 43680.0,
-        "salary_max": 45760.0,
-        "days_on_market": 9
-      },
-      {
-        "title": "Civil Engineer - Water",
-        "company": "Stantec UK",
-        "salary_min": 46851.34,
-        "salary_max": 46851.34,
-        "days_on_market": 9
-      },
-      {
-        "title": "Mobile Supervisor Mechanical or Electrical",
-        "company": "NG Bailey",
-        "salary_min": 48413.44,
-        "salary_max": 48413.44,
-        "days_on_market": 9
-      },
-      {
-        "title": "Mechanical Design Engineer",
-        "company": "Gold Group Ltd",
-        "salary_min": 104000.0,
-        "salary_max": 104000.0,
-        "days_on_market": 9
-      },
-      {
-        "title": "Mechanical Design Engineer",
-        "company": "Certain Advantage",
-        "salary_min": 104000.0,
-        "salary_max": 104000.0,
-        "days_on_market": 9
+        "title": "Senior Civil Engineer",
+        "company": "Carrington West",
+        "salary_min": 45000.0,
+        "salary_max": 53000.0,
+        "days_on_market": 10
       },
       {
         "title": "Civil Engineer - Renewables",
         "company": "AECOM",
         "salary_min": 41048.91,
         "salary_max": 41048.91,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
-        "title": "Mechanical Engineer - Pressure vessels",
-        "company": "Millbank Holdings",
-        "salary_min": 56146.76,
-        "salary_max": 56146.76,
+        "title": "Mechanical Mate",
+        "company": "O'Neill & Brennan",
+        "salary_min": 43680.0,
+        "salary_max": 45760.0,
         "days_on_market": 10
+      },
+      {
+        "title": "Mechanical Mate",
+        "company": "O'Neill & Brennan",
+        "salary_min": 43680.0,
+        "salary_max": 45760.0,
+        "days_on_market": 10
+      },
+      {
+        "title": "Mobile Supervisor Mechanical or Electrical",
+        "company": "NG Bailey",
+        "salary_min": 48413.44,
+        "salary_max": 48413.44,
+        "days_on_market": 10
+      },
+      {
+        "title": "Civil Engineer - Water",
+        "company": "Stantec UK",
+        "salary_min": 46851.34,
+        "salary_max": 46851.34,
+        "days_on_market": 10
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "company": "Morson Edge",
+        "salary_min": 83200.0,
+        "salary_max": 104000.0,
+        "days_on_market": 10
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "company": "Certain Advantage",
+        "salary_min": 104000.0,
+        "salary_max": 104000.0,
+        "days_on_market": 10
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "company": "Gold Group Ltd",
+        "salary_min": 104000.0,
+        "salary_max": 104000.0,
+        "days_on_market": 10
+      },
+      {
+        "title": "Commercial Manager (Mechanical Engineering)",
+        "company": "Ernest Gordon Recruitment",
+        "salary_min": 60000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 11
       },
       {
         "title": "Senior Mechanical Engineer",
         "company": "Parsons Summers",
         "salary_min": 462000.0,
         "salary_max": 534000.0,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
-        "title": "Civil Engineer - Renewables",
-        "company": "AECOM",
-        "salary_min": 37886.23,
-        "salary_max": 37886.23,
-        "days_on_market": 10
+        "title": "Mechanical Engineer - Pressure vessels",
+        "company": "Millbank Holdings",
+        "salary_min": 56146.76,
+        "salary_max": 56146.76,
+        "days_on_market": 11
       },
       {
         "title": "Mechanical Engineering",
         "company": "Booth Welsh Ltd",
         "salary_min": 54220.69,
         "salary_max": 54220.69,
-        "days_on_market": 10
+        "days_on_market": 11
+      },
+      {
+        "title": "Civil Engineer - Renewables",
+        "company": "AECOM",
+        "salary_min": 37886.23,
+        "salary_max": 37886.23,
+        "days_on_market": 11
       },
       {
         "title": "Principal Civil Engineer",
         "company": "Conrad Consulting Ltd",
         "salary_min": 55000.0,
         "salary_max": 62000.0,
-        "days_on_market": 10
-      },
-      {
-        "title": "Senior Mechanical Engineer",
-        "company": "Roc Search Europe Limited",
-        "salary_min": 56319.34,
-        "salary_max": 56319.34,
-        "days_on_market": 11
-      },
-      {
-        "title": "Principal Mechanical Engineer",
-        "company": "AECOM",
-        "salary_min": 46650.13,
-        "salary_max": 46650.13,
-        "days_on_market": 11
-      },
-      {
-        "title": "Civil Engineer",
-        "company": "Penguin Recruitment",
-        "salary_min": 35000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 11
-      },
-      {
-        "title": "Senior Mechanical Engineer",
-        "company": "Matchtech",
-        "salary_min": 40000.0,
-        "salary_max": 64000.0,
-        "days_on_market": 11
-      },
-      {
-        "title": "Civil Engineer",
-        "company": "Penguin Recruitment Ltd",
-        "salary_min": 35000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 11
-      },
-      {
-        "title": "Associate Director - Mechanical Engineering",
-        "company": "AECOM",
-        "salary_min": 63467.48,
-        "salary_max": 63467.48,
-        "days_on_market": 11
-      },
-      {
-        "title": "Associate Director - Mechanical Engineering",
-        "company": "AECOM",
-        "salary_min": 63465.84,
-        "salary_max": 63465.84,
         "days_on_market": 11
       },
       {
@@ -1077,48 +1021,90 @@
         "company": "Roc Search Europe Limited",
         "salary_min": 45510.25,
         "salary_max": 45510.25,
-        "days_on_market": 11
+        "days_on_market": 12
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Penguin Recruitment",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 12
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "company": "Matchtech",
+        "salary_min": 40000.0,
+        "salary_max": 64000.0,
+        "days_on_market": 12
+      },
+      {
+        "title": "Associate Director - Mechanical Engineering",
+        "company": "AECOM",
+        "salary_min": 63467.48,
+        "salary_max": 63467.48,
+        "days_on_market": 12
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Penguin Recruitment Ltd",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 12
+      },
+      {
+        "title": "Associate Director - Mechanical Engineering",
+        "company": "AECOM",
+        "salary_min": 63465.84,
+        "salary_max": 63465.84,
+        "days_on_market": 12
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "company": "Roc Search Europe Limited",
+        "salary_min": 56319.34,
+        "salary_max": 56319.34,
+        "days_on_market": 12
+      },
+      {
+        "title": "Principal Mechanical Engineer",
+        "company": "AECOM",
+        "salary_min": 46650.13,
+        "salary_max": 46650.13,
+        "days_on_market": 12
       },
       {
         "title": "Principal Mechanical Engineer",
         "company": "AECOM",
         "salary_min": 45377.63,
         "salary_max": 45377.63,
-        "days_on_market": 11
+        "days_on_market": 12
       },
       {
         "title": "Mechanical Design Engineer",
         "company": "Advanced Resource Managers",
         "salary_min": 65121.69,
         "salary_max": 65121.69,
-        "days_on_market": 12
+        "days_on_market": 13
       },
       {
         "title": "Technical Sales Engineer (Mechanical Engineering)",
         "company": "Ernest Gordon Recruitment",
         "salary_min": 50000.0,
         "salary_max": 50000.0,
-        "days_on_market": 12
-      },
-      {
-        "title": "Mechanical Design Engineer",
-        "company": "SP GLOBAL CONSULTING LTD",
-        "salary_min": 44703.86,
-        "salary_max": 44703.86,
-        "days_on_market": 14
+        "days_on_market": 13
       },
       {
         "title": "Lead Mechanical Engineer",
         "company": "Seismic Recruitment",
         "salary_min": 60225.94,
         "salary_max": 60225.94,
-        "days_on_market": 14
+        "days_on_market": 15
       },
       {
-        "title": "Senior Civil Engineer",
-        "company": "Penguin Recruitment Ltd",
-        "salary_min": 35000.0,
-        "salary_max": 45000.0,
+        "title": "Mechanical Design Engineer",
+        "company": "SP GLOBAL CONSULTING LTD",
+        "salary_min": 44703.86,
+        "salary_max": 44703.86,
         "days_on_market": 15
       },
       {
@@ -1126,167 +1112,139 @@
         "company": "Juice Recruitment Ltd",
         "salary_min": 26000.0,
         "salary_max": 35000.0,
-        "days_on_market": 15
+        "days_on_market": 16
+      },
+      {
+        "title": "Senior Civil Engineer",
+        "company": "Penguin Recruitment Ltd",
+        "salary_min": 48000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 16
       },
       {
         "title": "Civil Engineer",
         "company": "Carrington West",
         "salary_min": 37000.0,
         "salary_max": 44000.0,
-        "days_on_market": 15
-      },
-      {
-        "title": "Senior Civil Engineer",
-        "company": "Carrington West",
-        "salary_min": 45000.0,
-        "salary_max": 53000.0,
-        "days_on_market": 15
-      },
-      {
-        "title": "Senior Civil Engineer",
-        "company": "Carrington West",
-        "salary_min": 45000.0,
-        "salary_max": 53000.0,
-        "days_on_market": 15
-      },
-      {
-        "title": "Civil Engineer - Bristol",
-        "company": "Penguin Recruitment Ltd",
-        "salary_min": 35000.0,
-        "salary_max": 42000.0,
-        "days_on_market": 15
-      },
-      {
-        "title": "Mechanical Engineer - NPE",
-        "company": "Mactech Energy Group",
-        "salary_min": 53878.69,
-        "salary_max": 53878.69,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Senior Civil Engineer",
         "company": "Carrington West",
         "salary_min": 40000.0,
         "salary_max": 50000.0,
-        "days_on_market": 15
+        "days_on_market": 16
+      },
+      {
+        "title": "Civil Engineer - Bristol",
+        "company": "Penguin Recruitment Ltd",
+        "salary_min": 35000.0,
+        "salary_max": 42000.0,
+        "days_on_market": 16
       },
       {
         "title": "Senior Civil Engineer",
         "company": "Penguin Recruitment Ltd",
-        "salary_min": 48000.0,
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 16
+      },
+      {
+        "title": "Mechanical Engineer - NPE",
+        "company": "Mactech Energy Group",
+        "salary_min": 53878.69,
+        "salary_max": 53878.69,
+        "days_on_market": 16
+      },
+      {
+        "title": "Senior Civil Engineer",
+        "company": "Conrad Consulting Ltd",
+        "salary_min": 50000.0,
         "salary_max": 60000.0,
-        "days_on_market": 15
+        "days_on_market": 16
+      },
+      {
+        "title": "Senior Civil Engineer",
+        "company": "Carrington West",
+        "salary_min": 45000.0,
+        "salary_max": 53000.0,
+        "days_on_market": 16
       },
       {
         "title": "Civil Engineer - Bristol",
         "company": "Penguin Recruitment",
         "salary_min": 35000.0,
         "salary_max": 42000.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Senior Civil Engineer",
-        "company": "Conrad Consulting Ltd",
-        "salary_min": 50000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 15
+        "company": "Carrington West",
+        "salary_min": 45000.0,
+        "salary_max": 53000.0,
+        "days_on_market": 16
       },
       {
         "title": "Mechanical Design Engineer",
         "company": "Premier Group",
         "salary_min": 40002.41,
         "salary_max": 40002.41,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Senior Mechanical Engineer",
         "company": "RGB Recruitment",
         "salary_min": 48000.0,
         "salary_max": 58000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Principal Civil Engineer",
         "company": "Carrington West",
         "salary_min": 60000.0,
         "salary_max": 60000.0,
-        "days_on_market": 16
-      },
-      {
-        "title": "Principal Mechanical Engineer Bristol",
-        "company": "Morson Edge",
-        "salary_min": 72627.72,
-        "salary_max": 72627.72,
-        "days_on_market": 18
+        "days_on_market": 17
       },
       {
         "title": "Senior Mechanical Engineer",
         "company": "Rise Technical Recruitment Limited",
         "salary_min": 50000.0,
         "salary_max": 55000.0,
-        "days_on_market": 18
-      },
-      {
-        "title": "Degree Apprentice Civil Engineer",
-        "company": "Egis Group",
-        "salary_min": 29424.73,
-        "salary_max": 29424.73,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
         "title": "Electronics PCB Engineer",
         "company": "Kingston Barnes Ltd",
         "salary_min": 35000.0,
         "salary_max": 45000.0,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
-        "title": "Associate Civil Engineer - Bristol",
-        "company": "Tetra Tech",
-        "salary_min": 51387.33,
-        "salary_max": 51387.33,
-        "days_on_market": 18
-      },
-      {
-        "title": "Civil Engineer",
-        "company": "Ridge & Partners LLP",
-        "salary_min": 35327.97,
-        "salary_max": 35327.97,
-        "days_on_market": 18
+        "title": "Principal Mechanical Engineer Bristol",
+        "company": "Morson Edge",
+        "salary_min": 71544.43,
+        "salary_max": 71544.43,
+        "days_on_market": 20
       },
       {
         "title": "Civil Engineer",
         "company": "Ridge & Partners LLP",
         "salary_min": 35327.33,
         "salary_max": 35327.33,
-        "days_on_market": 19
+        "days_on_market": 20
+      },
+      {
+        "title": "Civil Engineer",
+        "company": "Ridge & Partners LLP",
+        "salary_min": 35327.97,
+        "salary_max": 35327.97,
+        "days_on_market": 20
       },
       {
         "title": "Mechanical Engineering Estimator | Nuclear",
         "company": "Baker Street Recruitment",
         "salary_min": 58043.91,
         "salary_max": 58043.91,
-        "days_on_market": 21
-      },
-      {
-        "title": "Senior Civil Engineer",
-        "company": "Penguin Recruitment",
-        "salary_min": 50000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 22
-      },
-      {
-        "title": "Structural Engineer",
-        "company": "Carrington West",
-        "salary_min": 45000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 22
-      },
-      {
-        "title": "Electro-Mechanical Engineer (Full Training  \u00a370K OTE)",
-        "company": "Rise Technical Recruitment Limited",
-        "salary_min": 57000.0,
-        "salary_max": 57000.0,
         "days_on_market": 22
       },
       {
@@ -1294,75 +1252,89 @@
         "company": "Penguin Recruitment Ltd",
         "salary_min": 50000.0,
         "salary_max": 60000.0,
-        "days_on_market": 22
+        "days_on_market": 23
+      },
+      {
+        "title": "Electro-Mechanical Engineer (Full Training  \u00a370K OTE)",
+        "company": "Rise Technical Recruitment Limited",
+        "salary_min": 57000.0,
+        "salary_max": 57000.0,
+        "days_on_market": 23
+      },
+      {
+        "title": "Senior Civil Engineer",
+        "company": "Penguin Recruitment",
+        "salary_min": 50000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 23
+      },
+      {
+        "title": "Structural Engineer",
+        "company": "Carrington West",
+        "salary_min": 45000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 23
       },
       {
         "title": "Design Engineer - Building & Mechanical Services",
         "company": "Mitchell Maguire",
         "salary_min": 50000.0,
         "salary_max": 80000.0,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Civil Structural Engineer",
         "company": "Capgemini Engineering",
         "salary_min": 50214.66,
         "salary_max": 50214.66,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Civil Engineer",
         "company": "Amentum",
         "salary_min": 40373.06,
         "salary_max": 40373.06,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Principal Mechanical Engineer",
         "company": "Advance TRS",
         "salary_min": 60000.0,
         "salary_max": 70000.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Director - Civil Engineering",
         "company": "RGB Recruitment",
         "salary_min": 75000.0,
         "salary_max": 90000.0,
-        "days_on_market": 25
-      },
-      {
-        "title": "Structural Engineer",
-        "company": "Conrad Consulting Ltd",
-        "salary_min": 45000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 25
-      },
-      {
-        "title": "Shift mechanical maintenance engineer",
-        "company": "Randstad Construction & Property",
-        "salary_min": 35000.0,
-        "salary_max": 39500.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Associate Civil Engineer",
         "company": "Calibre Search",
         "salary_min": 52000.0,
         "salary_max": 68000.0,
-        "days_on_market": 25
+        "days_on_market": 26
+      },
+      {
+        "title": "Shift mechanical maintenance engineer",
+        "company": "Randstad Construction & Property",
+        "salary_min": 35000.0,
+        "salary_max": 39500.0,
+        "days_on_market": 26
+      },
+      {
+        "title": "Structural Engineer",
+        "company": "Conrad Consulting Ltd",
+        "salary_min": 45000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 26
       },
       {
         "title": "Mechanical Engineer - Building Services",
         "company": "RGB Recruitment",
         "salary_min": 32000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 26
-      },
-      {
-        "title": "Regional HSEQ Compliance Auditor",
-        "company": "Network Plus",
-        "salary_min": 45000.0,
         "salary_max": 55000.0,
         "days_on_market": 27
       },
@@ -1371,83 +1343,90 @@
         "company": "Network Plus",
         "salary_min": 45000.0,
         "salary_max": 55000.0,
-        "days_on_market": 29
+        "days_on_market": 28
       },
       {
         "title": "Regional HSEQ Compliance Auditor",
         "company": "Network Plus",
         "salary_min": 55000.0,
         "salary_max": 55000.0,
-        "days_on_market": 29
+        "days_on_market": 30
       },
       {
         "title": "Regional HSEQ Compliance Auditor",
         "company": "Network Plus",
         "salary_min": 55000.0,
         "salary_max": 55000.0,
-        "days_on_market": 29
+        "days_on_market": 30
+      },
+      {
+        "title": "Regional HSEQ Compliance Auditor",
+        "company": "Network Plus",
+        "salary_min": 45000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 30
       },
       {
         "title": "Mechanical Project Engineer",
         "company": "Bennett and Game Recruitment LTD",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Test Development Engineer - Electronic Hardware",
         "company": "Graphcore",
         "salary_min": 51875.74,
         "salary_max": 51875.74,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Temp Mechanical/Plumbing Engineer",
         "company": "Alex Young Recruitment Ltd",
         "salary_min": 40321.92,
         "salary_max": 40321.92,
-        "days_on_market": 37
+        "days_on_market": 38
       },
       {
         "title": "Temp Mechanical/Plumbing Engineer",
         "company": "Alex Young Recruitment Ltd",
         "salary_min": 36149.3,
         "salary_max": 36149.3,
-        "days_on_market": 38
+        "days_on_market": 39
+      },
+      {
+        "title": "Associate Civil Engineer - Bristol",
+        "company": "Tetra Tech",
+        "salary_min": 51387.33,
+        "salary_max": 51387.33,
+        "days_on_market": 39
       },
       {
         "title": "Mechanical Engineer - Water projects",
         "company": "AECOM",
         "salary_min": 40940.3,
         "salary_max": 40940.3,
-        "days_on_market": 39
+        "days_on_market": 40
       },
       {
         "title": "Civil Engineer - Buildings",
         "company": "Stantec UK",
         "salary_min": 50026.0,
         "salary_max": 50026.0,
-        "days_on_market": 41
+        "days_on_market": 42
       },
       {
         "title": "Mechanical Engineer",
         "company": "YT Technologies",
         "salary_min": 35000.0,
         "salary_max": 43000.0,
-        "days_on_market": 43
+        "days_on_market": 44
       },
       {
-        "title": "Senior Civil Engineer",
-        "company": "Penguin Recruitment",
-        "salary_min": 48000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 50
-      },
-      {
-        "title": "Principal Civil Engineer",
-        "company": "Penguin Recruitment",
-        "salary_min": 54000.0,
-        "salary_max": 65000.0,
+        "title": "Civil Engineering Technician",
+        "company": "Ridge & Partners LLP",
+        "salary_min": 35001.0,
+        "salary_max": 50000.0,
         "days_on_market": 50
       },
       {
@@ -1455,171 +1434,178 @@
         "company": "Vulcain Engineering - UK",
         "salary_min": 41054.7,
         "salary_max": 41054.7,
-        "days_on_market": 50
+        "days_on_market": 51
       },
       {
         "title": "Principal Civil Engineer",
-        "company": "Flux Consulting",
-        "salary_min": 55000.0,
+        "company": "Penguin Recruitment",
+        "salary_min": 54000.0,
         "salary_max": 65000.0,
-        "days_on_market": 52
-      },
-      {
-        "title": "Civil Engineering Technician",
-        "company": "Ridge & Partners LLP",
-        "salary_min": 46318.41,
-        "salary_max": 46318.41,
-        "days_on_market": 52
+        "days_on_market": 51
       },
       {
         "title": "Senior Civil Engineer",
-        "company": "Flux Consulting",
-        "salary_min": 45000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 52
+        "company": "Penguin Recruitment",
+        "salary_min": 48000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 51
       },
       {
         "title": "Civil Engineer",
         "company": "Flux Consulting",
         "salary_min": 35000.0,
         "salary_max": 45000.0,
-        "days_on_market": 52
+        "days_on_market": 53
+      },
+      {
+        "title": "Senior Civil Engineer",
+        "company": "Flux Consulting",
+        "salary_min": 45000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 53
+      },
+      {
+        "title": "Civil Engineering Technician",
+        "company": "Ridge & Partners LLP",
+        "salary_min": 46318.41,
+        "salary_max": 46318.41,
+        "days_on_market": 53
+      },
+      {
+        "title": "Principal Civil Engineer",
+        "company": "Flux Consulting",
+        "salary_min": 55000.0,
+        "salary_max": 65000.0,
+        "days_on_market": 53
       },
       {
         "title": "Senior Civil Engineer",
         "company": "Mott MacDonald",
         "salary_min": 49867.53,
         "salary_max": 49867.53,
-        "days_on_market": 79
+        "days_on_market": 80
       },
       {
         "title": "Civil Engineer",
         "company": "Stantec UK",
         "salary_min": 46521.2,
         "salary_max": 46521.2,
-        "days_on_market": 85
-      },
-      {
-        "title": "Principal Mechanical Engineer",
-        "company": "Mott MacDonald",
-        "salary_min": 55029.5,
-        "salary_max": 55029.5,
-        "days_on_market": 85
+        "days_on_market": 86
       },
       {
         "title": "Senior Mechanical Engineer",
         "company": "Mott MacDonald",
         "salary_min": 52753.7,
         "salary_max": 52753.7,
-        "days_on_market": 85
+        "days_on_market": 86
+      },
+      {
+        "title": "Principal Mechanical Engineer",
+        "company": "Mott MacDonald",
+        "salary_min": 55029.5,
+        "salary_max": 55029.5,
+        "days_on_market": 86
       },
       {
         "title": "Civil Engineer",
         "company": "Mott MacDonald",
         "salary_min": 44388.94,
         "salary_max": 44388.94,
-        "days_on_market": 85
+        "days_on_market": 86
       },
       {
         "title": "Design Engineer Building & Mechanical Services",
         "company": "Mitchell Maguire",
         "salary_min": 80000.0,
         "salary_max": 80000.0,
-        "days_on_market": 86
+        "days_on_market": 87
       },
       {
         "title": "Civil Engineer - Buildings",
         "company": "Stantec",
         "salary_min": 52538.57,
         "salary_max": 52538.57,
-        "days_on_market": 89
+        "days_on_market": 90
       },
       {
         "title": "Principal Civil Engineer",
         "company": "Flux Consulting",
         "salary_min": 50000.0,
         "salary_max": 60000.0,
-        "days_on_market": 94
+        "days_on_market": 95
       },
       {
         "title": "Qualified Civils Engineer",
         "company": "Fibre Networking Solutions",
         "salary_min": 41755.06,
         "salary_max": 41755.06,
-        "days_on_market": 101
+        "days_on_market": 102
       },
       {
         "title": "Senior Mechanical Engineer",
         "company": "Ameresco",
         "salary_min": 62936.7,
         "salary_max": 62936.7,
-        "days_on_market": 104
+        "days_on_market": 105
       },
       {
         "title": "Thermo Mechanical Engineer",
         "company": "Fractile",
         "salary_min": 53431.98,
         "salary_max": 53431.98,
-        "days_on_market": 141
+        "days_on_market": 142
       },
       {
         "title": "Senior Civil Engineer",
         "company": "Flux Consulting",
         "salary_min": 45000.0,
         "salary_max": 55000.0,
-        "days_on_market": 163
+        "days_on_market": 164
       },
       {
         "title": "Senior Civil Engineer",
         "company": "Flux Consulting",
         "salary_min": 45000.0,
         "salary_max": 55000.0,
-        "days_on_market": 239
+        "days_on_market": 240
       },
       {
         "title": "Civil Engineer",
         "company": "Stantec",
         "salary_min": 48977.96,
         "salary_max": 48977.96,
-        "days_on_market": 260
+        "days_on_market": 261
       },
       {
         "title": "Mechanical Engineer",
         "company": "RSK Group",
         "salary_min": 0.0,
         "salary_max": 46000.0,
-        "days_on_market": 268
+        "days_on_market": 269
       },
       {
         "title": "Heavy Mechanical Engineer - Mobile",
         "company": "United Plant",
         "salary_min": 59920.36,
         "salary_max": 59920.36,
-        "days_on_market": 285
+        "days_on_market": 286
       }
     ]
   },
   {
     "category": "Construction",
-    "vacancies": 65,
-    "friction": 104.7,
+    "vacancies": 67,
+    "friction": 102.6,
     "target": 60,
     "jobs": [
       {
-        "title": "Electrician - EV Installer",
-        "company": "Ganymede Solutions",
-        "salary_min": 40000.0,
-        "salary_max": 40000.0,
+        "title": "Plumber Multi-Trader",
+        "company": "ITS Property Maintenance",
+        "salary_min": 49920.0,
+        "salary_max": 52000.0,
         "days_on_market": 0
       },
       {
-        "title": "Electrician",
-        "company": "ARC Group",
-        "salary_min": 58240.0,
-        "salary_max": 58240.0,
-        "days_on_market": 1
-      },
-      {
         "title": "Electrician - EV Installer",
         "company": "Ganymede Solutions",
         "salary_min": 40000.0,
@@ -1627,38 +1613,45 @@
         "days_on_market": 1
       },
       {
-        "title": "General Builder",
-        "company": "Sora Recruitment & HR",
-        "salary_min": 17.0,
-        "salary_max": 20.0,
+        "title": "Electrician",
+        "company": "Mitie Projects",
+        "salary_min": 41304.9,
+        "salary_max": 41304.9,
         "days_on_market": 1
       },
       {
-        "title": "Electrician",
-        "company": "ZENOVO LTD",
-        "salary_min": 43506.64,
-        "salary_max": 43506.64,
-        "days_on_market": 1
+        "title": "Electrician - EV Installer",
+        "company": "Ganymede Solutions",
+        "salary_min": 40000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 2
       },
       {
         "title": "Plumber Multi Trade",
         "company": "ITS Property Maintenance",
         "salary_min": 47840.0,
         "salary_max": 49920.0,
-        "days_on_market": 1
-      },
-      {
-        "title": "Commercial Plumber / Pipefitters",
-        "company": "Fusion People",
-        "salary_min": 41600.0,
-        "salary_max": 52000.0,
         "days_on_market": 2
       },
       {
-        "title": "Multi-Skilled Plumber",
-        "company": "Guinness Partnership",
-        "salary_min": 35000.0,
-        "salary_max": 35000.0,
+        "title": "Electrician",
+        "company": "ZENOVO LTD",
+        "salary_min": 43506.64,
+        "salary_max": 43506.64,
+        "days_on_market": 2
+      },
+      {
+        "title": "General Builder",
+        "company": "Sora Recruitment & HR",
+        "salary_min": 17.0,
+        "salary_max": 20.0,
+        "days_on_market": 2
+      },
+      {
+        "title": "Electrician",
+        "company": "ARC Group",
+        "salary_min": 58240.0,
+        "salary_max": 58240.0,
         "days_on_market": 2
       },
       {
@@ -1666,13 +1659,20 @@
         "company": "Ganymede Solutions",
         "salary_min": 37000.0,
         "salary_max": 40000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Multi-Skilled Plumber",
-        "company": "The Guinness Partnership",
-        "salary_min": 38090.0,
-        "salary_max": 38090.0,
+        "company": "Guinness Partnership",
+        "salary_min": 35000.0,
+        "salary_max": 35000.0,
+        "days_on_market": 3
+      },
+      {
+        "title": "Commercial Plumber / Pipefitters",
+        "company": "Fusion People",
+        "salary_min": 41600.0,
+        "salary_max": 52000.0,
         "days_on_market": 3
       },
       {
@@ -1680,34 +1680,34 @@
         "company": "3Recruit Ltd",
         "salary_min": 33318.18,
         "salary_max": 33318.18,
-        "days_on_market": 3
+        "days_on_market": 4
+      },
+      {
+        "title": "Multi-Skilled Plumber",
+        "company": "The Guinness Partnership",
+        "salary_min": 38090.0,
+        "salary_max": 38090.0,
+        "days_on_market": 4
       },
       {
         "title": "Commercial Plumber / Pipefitters",
         "company": "Fusion People Ltd",
         "salary_min": 41600.0,
         "salary_max": 52000.0,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
         "title": "Electrician",
         "company": "SNG ",
         "salary_min": 35730.0,
         "salary_max": 43670.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
         "title": "Electrician",
         "company": "Guardian Electrical Compliance",
         "salary_min": 51952.03,
         "salary_max": 51952.03,
-        "days_on_market": 7
-      },
-      {
-        "title": "Maintenance Electrician",
-        "company": "Calibre",
-        "salary_min": 40000.0,
-        "salary_max": 40000.0,
         "days_on_market": 8
       },
       {
@@ -1715,41 +1715,34 @@
         "company": "Thrive SW",
         "salary_min": 32000.0,
         "salary_max": 34000.0,
-        "days_on_market": 8
+        "days_on_market": 9
+      },
+      {
+        "title": "Maintenance Electrician",
+        "company": "Calibre",
+        "salary_min": 40000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 9
       },
       {
         "title": "Electrician (High Voltage / NICEIC)",
         "company": "Ernest Gordon Recruitment",
         "salary_min": 45000.0,
         "salary_max": 45000.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Electrician",
         "company": "Sureserve Group",
         "salary_min": 45000.0,
         "salary_max": 45000.0,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Plumber",
         "company": "Niyaa People Ltd",
         "salary_min": 40845.0,
         "salary_max": 40845.0,
-        "days_on_market": 11
-      },
-      {
-        "title": "Lead Electrician",
-        "company": "MDE Consultants Ltd",
-        "salary_min": 50000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 12
-      },
-      {
-        "title": "Plumber",
-        "company": "Ivy Resource Group",
-        "salary_min": 0.0,
-        "salary_max": 34000.0,
         "days_on_market": 12
       },
       {
@@ -1757,76 +1750,83 @@
         "company": "MDE Consultants Ltd",
         "salary_min": 45000.0,
         "salary_max": 50000.0,
-        "days_on_market": 12
+        "days_on_market": 13
+      },
+      {
+        "title": "Plumber",
+        "company": "Ivy Resource Group",
+        "salary_min": 0.0,
+        "salary_max": 34000.0,
+        "days_on_market": 13
+      },
+      {
+        "title": "Lead Electrician",
+        "company": "MDE Consultants Ltd",
+        "salary_min": 50000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 13
       },
       {
         "title": "Electrician",
         "company": "JT Recruit Ltd",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 13
+        "days_on_market": 14
       },
       {
         "title": "EICR Electrician",
         "company": "Rock managed services",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 14
+        "days_on_market": 16
       },
       {
         "title": "Electrician",
         "company": "Linsco Ltd.",
         "salary_min": 59800.0,
         "salary_max": 62400.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Control Panel Builder / Wirer",
         "company": "Lion Lift Controls",
         "salary_min": 35755.59,
         "salary_max": 35755.59,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Plumber",
         "company": "Right Search Recruitment Ltd",
         "salary_min": 49920.0,
         "salary_max": 52000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Plumber",
         "company": "1st Step",
         "salary_min": 59849.54,
         "salary_max": 59849.54,
-        "days_on_market": 17
+        "days_on_market": 18
       },
       {
         "title": "Electrician",
         "company": "Red Rock Consultants Ltd",
         "salary_min": 40000.0,
         "salary_max": 50000.0,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
         "title": "Maintenance Electrician",
         "company": "Office Owls Recruitment Limited",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Apprentice Plumber - no experience required",
         "company": "Army",
         "salary_min": 26000.0,
         "salary_max": 26000.0,
-        "days_on_market": 19
-      },
-      {
-        "title": "Plumber",
-        "company": "Golden Fox Recruitment Ltd",
-        "salary_min": 34000.0,
-        "salary_max": 36000.0,
         "days_on_market": 20
       },
       {
@@ -1834,76 +1834,69 @@
         "company": "High Profile Resourcing Ltd",
         "salary_min": 60000.0,
         "salary_max": 60000.0,
-        "days_on_market": 20
+        "days_on_market": 21
+      },
+      {
+        "title": "Plumber",
+        "company": "Golden Fox Recruitment Ltd",
+        "salary_min": 34000.0,
+        "salary_max": 36000.0,
+        "days_on_market": 21
       },
       {
         "title": "Electrician",
         "company": "WH Bence",
         "salary_min": 36129.96,
         "salary_max": 36129.96,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Electrician",
         "company": "WH Bence",
         "salary_min": 39520.0,
         "salary_max": 39520.0,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Industrial Electrician (Switchgear / Commissioning)",
         "company": "Ernest Gordon Recruitment",
         "salary_min": 55000.0,
         "salary_max": 55000.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Maintenance Electrician",
         "company": "Randstad Construction & Property",
         "salary_min": 38000.0,
         "salary_max": 40000.0,
-        "days_on_market": 25
-      },
-      {
-        "title": "Electrician",
-        "company": "Juice Recruitment Ltd",
-        "salary_min": 30000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Stand Builder / Exhibition Installer",
         "company": "Coburg Banks Limited",
         "salary_min": 29120.0,
         "salary_max": 41600.0,
-        "days_on_market": 25
+        "days_on_market": 26
+      },
+      {
+        "title": "Electrician",
+        "company": "Juice Recruitment Ltd",
+        "salary_min": 30000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 26
       },
       {
         "title": "Electrician (Commercial)",
         "company": "Invictus Recruitment",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 27
+        "days_on_market": 28
       },
       {
         "title": "Plumber",
         "company": "Invictus Recruitment",
         "salary_min": 35000.0,
         "salary_max": 35000.0,
-        "days_on_market": 27
-      },
-      {
-        "title": "Electrician",
-        "company": "Phosters  Limited",
-        "salary_min": 32944.05,
-        "salary_max": 32944.05,
-        "days_on_market": 28
-      },
-      {
-        "title": "Plumber (Responsive Repairs)",
-        "company": "Novus Property Solutions",
-        "salary_min": 37704.18,
-        "salary_max": 37704.18,
         "days_on_market": 28
       },
       {
@@ -1911,189 +1904,203 @@
         "company": "Ernest Gordon Recruitment",
         "salary_min": 45000.0,
         "salary_max": 45000.0,
-        "days_on_market": 28
+        "days_on_market": 29
+      },
+      {
+        "title": "Plumber (Responsive Repairs)",
+        "company": "Novus Property Solutions",
+        "salary_min": 37704.18,
+        "salary_max": 37704.18,
+        "days_on_market": 29
+      },
+      {
+        "title": "Electrician",
+        "company": "Phosters  Limited",
+        "salary_min": 32944.05,
+        "salary_max": 32944.05,
+        "days_on_market": 29
       },
       {
         "title": "Electrician",
         "company": "First Military Recruitment",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Electrician",
         "company": "Niyaa People Ltd",
         "salary_min": 62400.0,
         "salary_max": 65000.0,
-        "days_on_market": 37
+        "days_on_market": 38
       },
       {
         "title": "Electrician",
         "company": "ARC  Limited",
         "salary_min": 56160.0,
         "salary_max": 56160.0,
-        "days_on_market": 37
+        "days_on_market": 38
       },
       {
         "title": "Electrician",
         "company": "Niyaa People Ltd",
         "salary_min": 62400.0,
         "salary_max": 65000.0,
-        "days_on_market": 39
+        "days_on_market": 40
       },
       {
         "title": "Coach Builder",
         "company": "First Military Recruitment",
         "salary_min": 34425.06,
         "salary_max": 34425.06,
-        "days_on_market": 43
+        "days_on_market": 44
       },
       {
         "title": "Plumber/ Leak Detection",
         "company": "Belfor Uk",
         "salary_min": 37436.64,
         "salary_max": 37436.64,
-        "days_on_market": 52
-      },
-      {
-        "title": "Plumber (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 48753.66,
-        "salary_max": 48753.66,
-        "days_on_market": 358
-      },
-      {
-        "title": "Builder (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 42345.44,
-        "salary_max": 42345.44,
-        "days_on_market": 358
+        "days_on_market": 53
       },
       {
         "title": "Builder (Self-Employed)",
         "company": "MyJobQuote",
         "salary_min": 43668.55,
         "salary_max": 43668.55,
-        "days_on_market": 358
+        "days_on_market": 359
+      },
+      {
+        "title": "Builder (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 42345.44,
+        "salary_max": 42345.44,
+        "days_on_market": 359
       },
       {
         "title": "Plumber (Self-Employed)",
         "company": "MyJobQuote",
         "salary_min": 47285.68,
         "salary_max": 47285.68,
-        "days_on_market": 358
-      },
-      {
-        "title": "Builder (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 44466.64,
-        "salary_max": 44466.64,
-        "days_on_market": 358
-      },
-      {
-        "title": "Plumber (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 51424.2,
-        "salary_max": 51424.2,
-        "days_on_market": 358
-      },
-      {
-        "title": "Plumber (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 52958.76,
-        "salary_max": 52958.76,
-        "days_on_market": 358
+        "days_on_market": 359
       },
       {
         "title": "Plumber (Self-Employed)",
         "company": "MyJobQuote",
         "salary_min": 45239.01,
         "salary_max": 45239.01,
-        "days_on_market": 358
-      },
-      {
-        "title": "Builder (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 50073.21,
-        "salary_max": 50073.21,
-        "days_on_market": 358
-      },
-      {
-        "title": "Builder (Self-Employed)",
-        "company": "MyJobQuote",
-        "salary_min": 48630.93,
-        "salary_max": 48630.93,
-        "days_on_market": 358
+        "days_on_market": 359
       },
       {
         "title": "Plumber (Self-Employed)",
         "company": "MyJobQuote",
         "salary_min": 46329.23,
         "salary_max": 46329.23,
-        "days_on_market": 358
+        "days_on_market": 359
+      },
+      {
+        "title": "Plumber (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 51424.2,
+        "salary_max": 51424.2,
+        "days_on_market": 359
+      },
+      {
+        "title": "Builder (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 50073.21,
+        "salary_max": 50073.21,
+        "days_on_market": 359
+      },
+      {
+        "title": "Builder (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 48630.93,
+        "salary_max": 48630.93,
+        "days_on_market": 359
+      },
+      {
+        "title": "Plumber (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 52958.76,
+        "salary_max": 52958.76,
+        "days_on_market": 359
+      },
+      {
+        "title": "Plumber (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 48753.66,
+        "salary_max": 48753.66,
+        "days_on_market": 359
+      },
+      {
+        "title": "Builder (Self-Employed)",
+        "company": "MyJobQuote",
+        "salary_min": 44466.64,
+        "salary_max": 44466.64,
+        "days_on_market": 359
       },
       {
         "title": "Builder (Self-Employed)",
         "company": "MyJobQuote",
         "salary_min": 45847.16,
         "salary_max": 45847.16,
-        "days_on_market": 358
-      },
-      {
-        "title": "Plumber",
-        "company": "HomeRun Plumber",
-        "salary_min": 35805.31,
-        "salary_max": 35805.31,
-        "days_on_market": 562
-      },
-      {
-        "title": "Builder jobs in Bristol",
-        "company": "HomeRun Builder",
-        "salary_min": 41184.23,
-        "salary_max": 41184.23,
-        "days_on_market": 562
+        "days_on_market": 359
       },
       {
         "title": "Plumber in Bristol",
         "company": "TaskRabbit Plumbing",
         "salary_min": 91520.0,
         "salary_max": 91520.0,
-        "days_on_market": 562
+        "days_on_market": 563
+      },
+      {
+        "title": "Plumber",
+        "company": "HomeRun Plumber",
+        "salary_min": 35805.31,
+        "salary_max": 35805.31,
+        "days_on_market": 563
+      },
+      {
+        "title": "Builder jobs in Bristol",
+        "company": "HomeRun Builder",
+        "salary_min": 41184.23,
+        "salary_max": 41184.23,
+        "days_on_market": 563
       }
     ]
   },
   {
     "category": "Health",
-    "vacancies": 83,
-    "friction": 72.7,
+    "vacancies": 82,
+    "friction": 74.3,
     "target": 85,
     "jobs": [
+      {
+        "title": "Senior Community Nurse",
+        "company": "Sirona care & health CIC",
+        "salary_min": 39959.0,
+        "salary_max": 48117.0,
+        "days_on_market": 0
+      },
       {
         "title": "Registered Nurse (RGN) - Nursing Home",
         "company": "Sterling Cross",
         "salary_min": 42120.0,
         "salary_max": 47320.0,
-        "days_on_market": 0
+        "days_on_market": 1
       },
       {
         "title": "Exclusive UHNWI Medical Director",
         "company": "Medical Staff Talent",
         "salary_min": 240.0,
         "salary_max": 240.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Medical Device Territory Sales Manager. South West",
         "company": "Michael Page Retail",
         "salary_min": 52365.04,
         "salary_max": 52365.04,
-        "days_on_market": 2
-      },
-      {
-        "title": "Van Driver - Healthcare Deliveries",
-        "company": "Pertemps Bristol Industrial",
-        "salary_min": 27040.0,
-        "salary_max": 28974.0,
         "days_on_market": 3
       },
       {
@@ -2101,27 +2108,6 @@
         "company": "Turner & Townsend",
         "salary_min": 54470.09,
         "salary_max": 54470.09,
-        "days_on_market": 3
-      },
-      {
-        "title": "Healthcare Support Worker - John Stacey Ward",
-        "company": "HCRG Care Group",
-        "salary_min": 25500.0,
-        "salary_max": 27098.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Nurse Assessor - Hybrid",
-        "company": "iGo Recruitment",
-        "salary_min": 39500.0,
-        "salary_max": 42000.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Dental Nurse",
-        "company": "MBR Dental",
-        "salary_min": 28094.39,
-        "salary_max": 28094.39,
         "days_on_market": 4
       },
       {
@@ -2132,38 +2118,59 @@
         "days_on_market": 4
       },
       {
+        "title": "Nurse Assessor - Hybrid",
+        "company": "iGo Recruitment",
+        "salary_min": 39500.0,
+        "salary_max": 42000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Dental Nurse",
+        "company": "MBR Dental",
+        "salary_min": 28094.39,
+        "salary_max": 28094.39,
+        "days_on_market": 5
+      },
+      {
+        "title": "Van Driver - Healthcare Deliveries",
+        "company": "Pertemps Bristol Industrial",
+        "salary_min": 27040.0,
+        "salary_max": 28974.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Healthcare Support Worker - John Stacey Ward",
+        "company": "HCRG Care Group",
+        "salary_min": 25500.0,
+        "salary_max": 27098.0,
+        "days_on_market": 5
+      },
+      {
         "title": "Casual Bank Nursery Practitioner",
         "company": "Storal GR Limited",
         "salary_min": 22568.0,
         "salary_max": 27664.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
         "title": "Chief Medical Officer for UHNW Principals",
         "company": "Medical Staff Talent",
         "salary_min": 240.0,
         "salary_max": 240.0,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Healthcare Assistant",
         "company": "Medgen Ltd",
         "salary_min": 36400.0,
         "salary_max": 46280.0,
-        "days_on_market": 6
+        "days_on_market": 7
       },
       {
         "title": "Registered Veterinary Nurse",
         "company": "Vets for Pets",
         "salary_min": 33316.02,
         "salary_max": 33316.02,
-        "days_on_market": 6
-      },
-      {
-        "title": "Registered Nurse",
-        "company": "Medgen Ltd",
-        "salary_min": 74880.0,
-        "salary_max": 89440.0,
         "days_on_market": 7
       },
       {
@@ -2171,160 +2178,153 @@
         "company": "Welford Healthcare",
         "salary_min": 47112.0,
         "salary_max": 47112.0,
-        "days_on_market": 7
+        "days_on_market": 8
+      },
+      {
+        "title": "Registered Nurse",
+        "company": "Medgen Ltd",
+        "salary_min": 74880.0,
+        "salary_max": 89440.0,
+        "days_on_market": 8
       },
       {
         "title": "Lead Concierge Doctor for UHNW Principal",
         "company": "Medical Staff Talent",
         "salary_min": 240.0,
         "salary_max": 240.0,
-        "days_on_market": 7
-      },
-      {
-        "title": "Registered Nurse BANK",
-        "company": "Welford Healthcare",
-        "salary_min": 46800.0,
-        "salary_max": 46800.0,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
         "title": "Integrated Healthcare Specialist",
         "company": "Talentmark",
         "salary_min": 75000.0,
         "salary_max": 82000.0,
-        "days_on_market": 8
-      },
-      {
-        "title": "Enterprise Data Engineering Manager (IWR & Healthcare)",
-        "company": "Aviva",
-        "salary_min": 65127.71,
-        "salary_max": 65127.71,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Healthcare Support Worker - John Stacey Ward",
         "company": "HCRG Care Group",
         "salary_min": 36741.19,
         "salary_max": 36741.19,
-        "days_on_market": 8
+        "days_on_market": 9
+      },
+      {
+        "title": "Enterprise Data Engineering Manager (IWR & Healthcare)",
+        "company": "Aviva",
+        "salary_min": 65127.71,
+        "salary_max": 65127.71,
+        "days_on_market": 9
       },
       {
         "title": "Registered Nurse (RGN) - Bank - Care Home",
         "company": "Barchester Healthcare",
         "salary_min": 50918.0,
         "salary_max": 50918.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Registered Nurse (RGN) - Bank - Care Home",
         "company": "Barchester Healthcare",
         "salary_min": 49857.0,
         "salary_max": 49857.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Trainee Dental Nurse",
         "company": "PortmanDentex",
         "salary_min": 26965.09,
         "salary_max": 26965.09,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Theatre Healthcare Support Worker",
         "company": "Nuffield Health",
         "salary_min": 0.0,
         "salary_max": 25600.0,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Private Doctor for VIP Principal | Mediterranean Yacht Medicine and Personal Clinical Continuity",
         "company": "Medical Staff Talent",
         "salary_min": 240.0,
         "salary_max": 240.0,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Registered General Nurse",
         "company": "The Placement Group",
         "salary_min": 21.0,
         "salary_max": 33.0,
-        "days_on_market": 11
+        "days_on_market": 12
       },
       {
         "title": "Healthcare Assistant - Theatre",
         "company": "Nuffield Health",
         "salary_min": 0.0,
         "salary_max": 25038.0,
-        "days_on_market": 11
+        "days_on_market": 12
       },
       {
         "title": "Healthcare Assistant",
         "company": "Nuffield Health",
         "salary_min": 0.0,
         "salary_max": 27000.0,
-        "days_on_market": 11
+        "days_on_market": 12
       },
       {
         "title": "Registered Nurse (RGN) - Bank - Care Home",
         "company": "Barchester Healthcare",
         "salary_min": 50148.0,
         "salary_max": 50148.0,
-        "days_on_market": 12
-      },
-      {
-        "title": "Healthcare Assistant",
-        "company": "Optical Express",
-        "salary_min": 21692.26,
-        "salary_max": 21692.26,
-        "days_on_market": 14
+        "days_on_market": 13
       },
       {
         "title": "Registered Veterinary Nurse",
         "company": "Vets for Pets",
         "salary_min": 0.0,
         "salary_max": 36000.0,
-        "days_on_market": 14
+        "days_on_market": 15
+      },
+      {
+        "title": "Healthcare Assistant",
+        "company": "Optical Express",
+        "salary_min": 21692.26,
+        "salary_max": 21692.26,
+        "days_on_market": 15
       },
       {
         "title": "Healthcare Assistant",
         "company": "Medgen Ltd",
         "salary_min": 35360.0,
         "salary_max": 35360.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Lead Endoscopy Nurse / ODP",
         "company": "Oxford Natural Healthcare Professionals",
         "salary_min": 45000.0,
         "salary_max": 45000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Nursery Nurse",
         "company": "Affinity Workforce",
         "salary_min": 30638.0,
         "salary_max": 38625.0,
-        "days_on_market": 17
-      },
-      {
-        "title": "NICU/ Peads Nurses Bristol",
-        "company": "PE Global International",
-        "salary_min": 56471.32,
-        "salary_max": 56471.32,
-        "days_on_market": 17
+        "days_on_market": 18
       },
       {
         "title": "Registered Nurse",
         "company": "WESolutions",
         "salary_min": 41600.0,
         "salary_max": 58240.0,
-        "days_on_market": 17
+        "days_on_market": 18
       },
       {
-        "title": "Installation Engineer (Training into Healthcare)",
-        "company": "Rise Technical Recruitment",
-        "salary_min": 30000.0,
-        "salary_max": 35000.0,
+        "title": "NICU/ Peads Nurses Bristol",
+        "company": "PE Global International",
+        "salary_min": 56471.32,
+        "salary_max": 56471.32,
         "days_on_market": 18
       },
       {
@@ -2332,76 +2332,69 @@
         "company": "Nuffield Health",
         "salary_min": 0.0,
         "salary_max": 35150.0,
-        "days_on_market": 18
+        "days_on_market": 19
+      },
+      {
+        "title": "Installation Engineer (Training into Healthcare)",
+        "company": "Rise Technical Recruitment",
+        "salary_min": 30000.0,
+        "salary_max": 35000.0,
+        "days_on_market": 19
       },
       {
         "title": "Lead Endoscopy Nurse/ODP",
         "company": "Oxford Natural Healthcare Professionals",
         "salary_min": 47000.0,
         "salary_max": 47000.0,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
         "title": "Installation Engineer (Training into Healthcare)",
         "company": "Rise Technical Recruitment Limited",
         "salary_min": 30000.0,
         "salary_max": 35000.0,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
-        "title": "Registered Nurse (RGN) - Bank - Care Home",
-        "company": "Barchester Healthcare",
-        "salary_min": 50107.0,
-        "salary_max": 50107.0,
-        "days_on_market": 18
+        "title": "Nursery Nurse",
+        "company": "Prospero Teaching",
+        "salary_min": 30160.0,
+        "salary_max": 33280.0,
+        "days_on_market": 20
       },
       {
         "title": "Registered General Nurse",
         "company": "Pro Staffing Locums Ltd",
         "salary_min": 56160.0,
         "salary_max": 70720.0,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Nursery Nurse",
         "company": "Prospero Teaching",
         "salary_min": 30160.0,
         "salary_max": 33280.0,
-        "days_on_market": 19
-      },
-      {
-        "title": "Nursery Nurse",
-        "company": "Prospero Teaching",
-        "salary_min": 30160.0,
-        "salary_max": 33280.0,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Registered Nurse",
         "company": "InHealth Group",
         "salary_min": 33500.0,
         "salary_max": 38000.0,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Nursery Nurse",
         "company": "Staff Match",
         "salary_min": 29000.0,
         "salary_max": 29000.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Lead Nurse",
         "company": "Inhealth Group",
         "salary_min": 47000.0,
         "salary_max": 47000.0,
-        "days_on_market": 22
-      },
-      {
-        "title": "Registered Nurse - BANK",
-        "company": "Registered Nurse ",
-        "salary_min": 46280.0,
-        "salary_max": 46280.0,
         "days_on_market": 23
       },
       {
@@ -2409,28 +2402,28 @@
         "company": "Nuffield Health",
         "salary_min": 0.0,
         "salary_max": 25600.0,
-        "days_on_market": 23
+        "days_on_market": 24
+      },
+      {
+        "title": "Registered Nurse - BANK",
+        "company": "Registered Nurse ",
+        "salary_min": 46280.0,
+        "salary_max": 46280.0,
+        "days_on_market": 24
       },
       {
         "title": "Staff Nurse",
         "company": "Nuffield Health",
         "salary_min": 0.0,
         "salary_max": 43680.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Registered Nurse",
         "company": "Bupa Occupational Health",
         "salary_min": 40830.0,
         "salary_max": 45032.0,
-        "days_on_market": 27
-      },
-      {
-        "title": "Oncology Homecare Nurse",
-        "company": "Meridian Business Support Limited",
-        "salary_min": 30000.0,
-        "salary_max": 30000.0,
-        "days_on_market": 29
+        "days_on_market": 28
       },
       {
         "title": "Oncology Homecare Nurse",
@@ -2440,284 +2433,284 @@
         "days_on_market": 30
       },
       {
+        "title": "Oncology Homecare Nurse",
+        "company": "Meridian Business Support Limited",
+        "salary_min": 30000.0,
+        "salary_max": 30000.0,
+        "days_on_market": 31
+      },
+      {
         "title": "Paediatric Registered Nurse",
         "company": "G &H CARE LIMITED",
         "salary_min": 45760.0,
         "salary_max": 52000.0,
-        "days_on_market": 35
+        "days_on_market": 36
       },
       {
         "title": "Bank Healthcare Assistant",
         "company": "Cornerstone",
         "salary_min": 13.0,
         "salary_max": 13.0,
-        "days_on_market": 37
+        "days_on_market": 38
       },
       {
         "title": "Healthcare Assistant Days - Male Only",
         "company": "Cornerstone",
         "salary_min": 13.0,
         "salary_max": 13.0,
-        "days_on_market": 37
+        "days_on_market": 38
       },
       {
         "title": "Qualified Dental Nurse",
         "company": "Dental Touch",
         "salary_min": 41003.68,
         "salary_max": 41003.68,
-        "days_on_market": 47
-      },
-      {
-        "title": "Healthcare Support Worker",
-        "company": "InHealth Group",
-        "salary_min": 24784.0,
-        "salary_max": 25500.0,
-        "days_on_market": 49
+        "days_on_market": 48
       },
       {
         "title": "Lead Nurse",
         "company": "InHealth Group",
         "salary_min": 35558.19,
         "salary_max": 35558.19,
-        "days_on_market": 49
+        "days_on_market": 50
+      },
+      {
+        "title": "Healthcare Support Worker",
+        "company": "InHealth Group",
+        "salary_min": 24784.0,
+        "salary_max": 25500.0,
+        "days_on_market": 50
       },
       {
         "title": "Registered Nurse (RGN) - Care Home",
         "company": "Barchester Healthcare",
         "salary_min": 44491.0,
         "salary_max": 44491.0,
-        "days_on_market": 49
+        "days_on_market": 50
       },
       {
         "title": "RGN Nurse (Days)",
         "company": "Bishopsmead",
         "salary_min": 50481.0,
         "salary_max": 50481.0,
-        "days_on_market": 50
+        "days_on_market": 51
       },
       {
         "title": "Community Nurse -Bristol",
         "company": "Pulse Healthcare",
         "salary_min": 35360.0,
         "salary_max": 66560.0,
-        "days_on_market": 56
+        "days_on_market": 57
       },
       {
         "title": "Registered Nurse",
         "company": "Welford Healthcare",
         "salary_min": 45240.0,
         "salary_max": 45240.0,
-        "days_on_market": 68
+        "days_on_market": 69
       },
       {
         "title": "Healthcare Development Manager",
         "company": "IQVIA",
         "salary_min": 33223.21,
         "salary_max": 33223.21,
-        "days_on_market": 88
+        "days_on_market": 89
       },
       {
         "title": "Senior Healthcare Assistant",
         "company": "Resilience Personnel Ltd",
         "salary_min": 31200.0,
         "salary_max": 32240.0,
-        "days_on_market": 116
+        "days_on_market": 117
       },
       {
         "title": "Mid-Senior Healthcare Professional",
         "company": "Hire Resolve.com",
         "salary_min": 40000.0,
         "salary_max": 70000.0,
-        "days_on_market": 138
+        "days_on_market": 139
       },
       {
         "title": "Registered Nurse -Ward",
         "company": "Practice Plus Group",
         "salary_min": 35462.62,
         "salary_max": 35462.62,
-        "days_on_market": 213
-      },
-      {
-        "title": "Registered Nurse - PRN - Overseas",
-        "company": "Job Bridge Global",
-        "salary_min": 57795.12,
-        "salary_max": 57795.12,
-        "days_on_market": 221
-      },
-      {
-        "title": "Labor and Delivery Nurse (RN)",
-        "company": "Job Bridge Global",
-        "salary_min": 55498.56,
-        "salary_max": 55498.56,
-        "days_on_market": 221
-      },
-      {
-        "title": "Clinical Nurse Supervisor (RN)",
-        "company": "Job Bridge Global",
-        "salary_min": 52162.43,
-        "salary_max": 52162.43,
-        "days_on_market": 221
-      },
-      {
-        "title": "LPN - Licensed Practical Nurses - Overseas",
-        "company": "Job Bridge Global",
-        "salary_min": 48748.97,
-        "salary_max": 48748.97,
-        "days_on_market": 221
-      },
-      {
-        "title": "Registered Nurse (RN) - Overseas",
-        "company": "Job Bridge Global",
-        "salary_min": 54699.81,
-        "salary_max": 54699.81,
-        "days_on_market": 221
-      },
-      {
-        "title": "Registered Nurse (RN) - Overseas",
-        "company": "Job Bridge Global",
-        "salary_min": 54477.98,
-        "salary_max": 54477.98,
-        "days_on_market": 221
-      },
-      {
-        "title": "Registered Nurse (RN) - Overseas",
-        "company": "Job Bridge Global",
-        "salary_min": 63251.82,
-        "salary_max": 63251.82,
-        "days_on_market": 221
+        "days_on_market": 214
       },
       {
         "title": "OR Registered Nurse (RN)",
         "company": "Job Bridge Global",
         "salary_min": 50766.86,
         "salary_max": 50766.86,
-        "days_on_market": 221
+        "days_on_market": 222
+      },
+      {
+        "title": "Registered Nurse (RN) - Overseas",
+        "company": "Job Bridge Global",
+        "salary_min": 63251.82,
+        "salary_max": 63251.82,
+        "days_on_market": 222
+      },
+      {
+        "title": "Registered Nurse (RN) - Overseas",
+        "company": "Job Bridge Global",
+        "salary_min": 54477.98,
+        "salary_max": 54477.98,
+        "days_on_market": 222
+      },
+      {
+        "title": "Clinical Nurse Supervisor (RN)",
+        "company": "Job Bridge Global",
+        "salary_min": 52162.43,
+        "salary_max": 52162.43,
+        "days_on_market": 222
+      },
+      {
+        "title": "LPN - Licensed Practical Nurses - Overseas",
+        "company": "Job Bridge Global",
+        "salary_min": 48748.97,
+        "salary_max": 48748.97,
+        "days_on_market": 222
+      },
+      {
+        "title": "Labor and Delivery Nurse (RN)",
+        "company": "Job Bridge Global",
+        "salary_min": 55498.56,
+        "salary_max": 55498.56,
+        "days_on_market": 222
+      },
+      {
+        "title": "Registered Nurse - PRN - Overseas",
+        "company": "Job Bridge Global",
+        "salary_min": 57795.12,
+        "salary_max": 57795.12,
+        "days_on_market": 222
+      },
+      {
+        "title": "Registered Nurse (RN) - Overseas",
+        "company": "Job Bridge Global",
+        "salary_min": 54699.81,
+        "salary_max": 54699.81,
+        "days_on_market": 222
       },
       {
         "title": "Registered Nurse - Overseas",
         "company": "Job Bridge Global",
         "salary_min": 56880.27,
         "salary_max": 56880.27,
-        "days_on_market": 221
+        "days_on_market": 222
       },
       {
         "title": "Registered Nurse - Overseas",
         "company": "Job Bridge Global",
         "salary_min": 48630.47,
         "salary_max": 48630.47,
-        "days_on_market": 221
+        "days_on_market": 222
       },
       {
         "title": "Band 5 - Intensive Therapy Unit (ITU) Nurse - Bristol",
         "company": "Pulse Healthcare",
         "salary_min": 34320.0,
         "salary_max": 58240.0,
-        "days_on_market": 290
+        "days_on_market": 291
       },
       {
         "title": "Registered Veterinary Nurse",
         "company": "Medmatch",
         "salary_min": 25000.0,
         "salary_max": 30000.0,
-        "days_on_market": 297
+        "days_on_market": 298
       },
       {
         "title": "Qualified Dental Nurse",
         "company": "Medmatch",
         "salary_min": 25000.0,
         "salary_max": 30000.0,
-        "days_on_market": 341
-      },
-      {
-        "title": "Band 5 - Registered General Nurse (RGN) - Bristol",
-        "company": "Pulse Healthcare",
-        "salary_min": 36400.0,
-        "salary_max": 58240.0,
-        "days_on_market": 364
+        "days_on_market": 342
       },
       {
         "title": "Band 5 - Registered General Nurse (RGN) - Yate",
         "company": "Pulse Healthcare",
         "salary_min": 36400.0,
         "salary_max": 58240.0,
-        "days_on_market": 364
+        "days_on_market": 365
+      },
+      {
+        "title": "Band 5 - Registered General Nurse (RGN) - Bristol",
+        "company": "Pulse Healthcare",
+        "salary_min": 36400.0,
+        "salary_max": 58240.0,
+        "days_on_market": 365
       },
       {
         "title": "Specialty Doctor in Histopathology - Bristol",
         "company": "Pulse Healthcare",
         "salary_min": 71776.51,
         "salary_max": 71776.51,
-        "days_on_market": 469
+        "days_on_market": 470
       }
     ]
   },
   {
     "category": "Education",
-    "vacancies": 61,
-    "friction": 81.1,
+    "vacancies": 60,
+    "friction": 83.9,
     "target": 50,
     "jobs": [
       {
-        "title": "SEN/SEMH Teacher",
-        "company": "Five Education Recruitment Limited",
-        "salary_min": 44200.0,
-        "salary_max": 65000.0,
-        "days_on_market": 2
+        "title": "Design & Technology Teacher",
+        "company": "Witherslack Group",
+        "salary_min": 42665.11,
+        "salary_max": 42665.11,
+        "days_on_market": 1
       },
       {
         "title": "Lecturer in Science",
         "company": "South Gloucestershire and Stroud College",
         "salary_min": 34044.0,
         "salary_max": 34044.0,
-        "days_on_market": 2
+        "days_on_market": 3
+      },
+      {
+        "title": "SEN/SEMH Teacher",
+        "company": "Five Education Recruitment Limited",
+        "salary_min": 44200.0,
+        "salary_max": 65000.0,
+        "days_on_market": 3
+      },
+      {
+        "title": "SEN Teachers Needed",
+        "company": "Teaching Personnel",
+        "salary_min": 36400.0,
+        "salary_max": 57200.0,
+        "days_on_market": 3
       },
       {
         "title": "Design & Technology Teacher",
         "company": "Witherslack Group",
         "salary_min": 41441.38,
         "salary_max": 41441.38,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
         "title": "Food Technology Teacher",
         "company": "Witherslack Group",
         "salary_min": 40936.75,
         "salary_max": 40936.75,
-        "days_on_market": 3
-      },
-      {
-        "title": "Design & Technology Teacher",
-        "company": "Witherslack Group",
-        "salary_min": 42665.11,
-        "salary_max": 42665.11,
-        "days_on_market": 3
-      },
-      {
-        "title": "Food Technology Teacher",
-        "company": "Witherslack Group",
-        "salary_min": 42145.44,
-        "salary_max": 42145.44,
-        "days_on_market": 3
-      },
-      {
-        "title": "Teacher 0095",
-        "company": "The Aurora Group",
-        "salary_min": 32916.0,
-        "salary_max": 49232.0,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
         "title": "English Teacher",
         "company": "TEFL UK",
         "salary_min": 25000.0,
         "salary_max": 30000.0,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
-        "title": "Teacher",
-        "company": "Futura Learning Partnership",
-        "salary_min": 32930.0,
-        "salary_max": 45351.0,
+        "title": "Food Technology Teacher",
+        "company": "Witherslack Group",
+        "salary_min": 42145.44,
+        "salary_max": 42145.44,
         "days_on_market": 4
       },
       {
@@ -2725,20 +2718,20 @@
         "company": "Protocol Education",
         "salary_min": 33800.0,
         "salary_max": 41600.0,
-        "days_on_market": 4
+        "days_on_market": 5
+      },
+      {
+        "title": "Teacher",
+        "company": "Futura Learning Partnership",
+        "salary_min": 32930.0,
+        "salary_max": 45351.0,
+        "days_on_market": 5
       },
       {
         "title": "SEND Teacher",
         "company": "Protocol Education",
         "salary_min": 43680.0,
         "salary_max": 60320.0,
-        "days_on_market": 6
-      },
-      {
-        "title": "Sound Engineering Lecturer",
-        "company": "City of Bristol College",
-        "salary_min": 33677.0,
-        "salary_max": 42094.0,
         "days_on_market": 7
       },
       {
@@ -2746,13 +2739,13 @@
         "company": "City of Bristol College",
         "salary_min": 33677.0,
         "salary_max": 42094.0,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
-        "title": "Primary Teacher",
-        "company": "Protocol Education",
-        "salary_min": 39000.0,
-        "salary_max": 57200.0,
+        "title": "Sound Engineering Lecturer",
+        "company": "City of Bristol College",
+        "salary_min": 33677.0,
+        "salary_max": 42094.0,
         "days_on_market": 8
       },
       {
@@ -2760,20 +2753,20 @@
         "company": "Protocol Education",
         "salary_min": 43680.0,
         "salary_max": 60320.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Lecturer \u2013 Electrical Installations",
         "company": "City of Bristol College",
         "salary_min": 33677.0,
         "salary_max": 42094.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
-        "title": "Lecturer in English - Team Leader",
-        "company": "South Gloucestershire and Stroud College",
-        "salary_min": 39291.0,
-        "salary_max": 39291.0,
+        "title": "Primary Teacher",
+        "company": "Protocol Education",
+        "salary_min": 39000.0,
+        "salary_max": 57200.0,
         "days_on_market": 9
       },
       {
@@ -2781,41 +2774,34 @@
         "company": "Tradewind Recruitment",
         "salary_min": 43184.99,
         "salary_max": 43184.99,
-        "days_on_market": 9
+        "days_on_market": 10
+      },
+      {
+        "title": "Lecturer in English - Team Leader",
+        "company": "South Gloucestershire and Stroud College",
+        "salary_min": 39291.0,
+        "salary_max": 39291.0,
+        "days_on_market": 10
       },
       {
         "title": "Economics Teacher | Sixth Form College | Bristol",
         "company": "Marchant Recruitment",
         "salary_min": 53644.02,
         "salary_max": 53644.02,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "English Teacher",
         "company": "Futura Learning Partnership",
         "salary_min": 32930.0,
         "salary_max": 51047.0,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Supply Teacher",
         "company": "Protocol Education",
         "salary_min": 39000.0,
         "salary_max": 57200.0,
-        "days_on_market": 10
-      },
-      {
-        "title": "PE Teacher",
-        "company": "Futura Learning Partnership",
-        "salary_min": 32930.0,
-        "salary_max": 51047.0,
-        "days_on_market": 11
-      },
-      {
-        "title": "Unqualified Teacher",
-        "company": "Teaching Personnel",
-        "salary_min": 26000.0,
-        "salary_max": 33800.0,
         "days_on_market": 11
       },
       {
@@ -2823,20 +2809,27 @@
         "company": "Educated Recruitment Limited",
         "salary_min": 23400.0,
         "salary_max": 52000.0,
-        "days_on_market": 11
+        "days_on_market": 12
+      },
+      {
+        "title": "Unqualified Teacher",
+        "company": "Teaching Personnel",
+        "salary_min": 26000.0,
+        "salary_max": 33800.0,
+        "days_on_market": 12
       },
       {
         "title": "Teacher",
         "company": "Teaching Personnel",
         "salary_min": 32916.0,
         "salary_max": 49232.0,
-        "days_on_market": 11
+        "days_on_market": 12
       },
       {
-        "title": "SEND Teacher",
-        "company": "Protocol Education",
-        "salary_min": 29640.0,
-        "salary_max": 30388.0,
+        "title": "PE Teacher",
+        "company": "Futura Learning Partnership",
+        "salary_min": 32930.0,
+        "salary_max": 51047.0,
         "days_on_market": 12
       },
       {
@@ -2844,34 +2837,34 @@
         "company": "Tradewind Recruitment",
         "salary_min": 36400.0,
         "salary_max": 52000.0,
-        "days_on_market": 12
+        "days_on_market": 13
+      },
+      {
+        "title": "SEND Teacher",
+        "company": "Protocol Education",
+        "salary_min": 29640.0,
+        "salary_max": 30388.0,
+        "days_on_market": 13
       },
       {
         "title": "Class Teacher",
         "company": "Protocol Education",
         "salary_min": 39000.0,
         "salary_max": 57200.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Teacher",
         "company": "Protocol Education",
         "salary_min": 39000.0,
         "salary_max": 57200.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Primary Teacher",
         "company": "Tradewind Recruitment",
         "salary_min": 42960.38,
         "salary_max": 42960.38,
-        "days_on_market": 16
-      },
-      {
-        "title": "KS2 Teacher",
-        "company": "Protocol Education",
-        "salary_min": 35100.0,
-        "salary_max": 57200.0,
         "days_on_market": 17
       },
       {
@@ -2879,20 +2872,13 @@
         "company": "Marchant Recruitment",
         "salary_min": 43859.03,
         "salary_max": 43859.03,
-        "days_on_market": 17
-      },
-      {
-        "title": "KS1 Teacher",
-        "company": "Protocol Education",
-        "salary_min": 35100.0,
-        "salary_max": 57200.0,
         "days_on_market": 18
       },
       {
-        "title": "EYFS and KS1 Teacher",
-        "company": "Prospero Teaching",
-        "salary_min": 33800.0,
-        "salary_max": 46800.0,
+        "title": "KS2 Teacher",
+        "company": "Protocol Education",
+        "salary_min": 35100.0,
+        "salary_max": 57200.0,
         "days_on_market": 18
       },
       {
@@ -2900,27 +2886,27 @@
         "company": "Protocol Education",
         "salary_min": 26000.0,
         "salary_max": 29900.0,
-        "days_on_market": 18
+        "days_on_market": 19
+      },
+      {
+        "title": "KS1 Teacher",
+        "company": "Protocol Education",
+        "salary_min": 35100.0,
+        "salary_max": 57200.0,
+        "days_on_market": 19
+      },
+      {
+        "title": "EYFS and KS1 Teacher",
+        "company": "Prospero Teaching",
+        "salary_min": 33800.0,
+        "salary_max": 46800.0,
+        "days_on_market": 19
       },
       {
         "title": "SEN / English Teacher",
         "company": "Prospero Teaching",
         "salary_min": 44980.0,
         "salary_max": 54080.0,
-        "days_on_market": 18
-      },
-      {
-        "title": "English Teacher",
-        "company": "TEFL UK",
-        "salary_min": 25000.0,
-        "salary_max": 33000.0,
-        "days_on_market": 19
-      },
-      {
-        "title": "Teacher of Science",
-        "company": "Protocol Education",
-        "salary_min": 33800.0,
-        "salary_max": 59800.0,
         "days_on_market": 19
       },
       {
@@ -2928,41 +2914,48 @@
         "company": "Prospero Teaching",
         "salary_min": 33800.0,
         "salary_max": 46800.0,
-        "days_on_market": 19
+        "days_on_market": 20
+      },
+      {
+        "title": "English Teacher",
+        "company": "TEFL UK",
+        "salary_min": 25000.0,
+        "salary_max": 33000.0,
+        "days_on_market": 20
+      },
+      {
+        "title": "Teacher of Science",
+        "company": "Protocol Education",
+        "salary_min": 33800.0,
+        "salary_max": 59800.0,
+        "days_on_market": 20
       },
       {
         "title": "Lecturer in Maths - Maternity Cover",
         "company": "South Gloucestershire and Stroud College",
         "salary_min": 37545.0,
         "salary_max": 37545.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "SEN Teacher",
         "company": "Outcomes First Group",
         "salary_min": 45000.0,
         "salary_max": 45000.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Online Graphic Design Tutor - Part Time",
         "company": "FindTutors",
         "salary_min": 40773.54,
         "salary_max": 40773.54,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Primary Teacher",
         "company": "Tradewind Recruitment",
         "salary_min": 47653.05,
         "salary_max": 47653.05,
-        "days_on_market": 22
-      },
-      {
-        "title": "SEN Teacher",
-        "company": "Outcomes First Group",
-        "salary_min": 0.0,
-        "salary_max": 45000.0,
         "days_on_market": 23
       },
       {
@@ -2970,140 +2963,147 @@
         "company": "City of Bristol College",
         "salary_min": 33677.0,
         "salary_max": 42094.0,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Online Graphic Design Tutor - Part Time",
         "company": "FindTutors",
         "salary_min": 40509.01,
         "salary_max": 40509.01,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Computer Science Teacher - Outstanding Secondary School in Bristol - September Start",
         "company": "Marchant Recruitment",
         "salary_min": 47708.66,
         "salary_max": 47708.66,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Teacher of PE - Supply",
         "company": "Randstad Education",
         "salary_min": 43680.0,
         "salary_max": 69940.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Science Teacher",
         "company": "Protocol Education",
         "salary_min": 36400.0,
         "salary_max": 54600.0,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
-        "title": "Lecturer/Assessor for CIPS",
-        "company": "South Gloucestershire and Stroud College",
-        "salary_min": 37545.0,
-        "salary_max": 37545.0,
-        "days_on_market": 28
+        "title": "Online Graphic Design Tutoring Job in Henbury \u2013 Flexible Schedule",
+        "company": "FindTutors",
+        "salary_min": 42073.08,
+        "salary_max": 42073.08,
+        "days_on_market": 81
       },
       {
         "title": "Become a Graphic Design Tutor in Henbury \u2013 Flexible & Remote",
         "company": "FindTutors",
         "salary_min": 34567.17,
         "salary_max": 34567.17,
-        "days_on_market": 80
+        "days_on_market": 81
       },
       {
         "title": "Law Teacher",
         "company": "Long-term Teachers Ltd",
         "salary_min": 39000.0,
         "salary_max": 57200.0,
-        "days_on_market": 99
+        "days_on_market": 100
       },
       {
         "title": "Become a Graphic Design Tutor in Bristol \u2013 Flexible & Remote",
         "company": "FindTutors",
         "salary_min": 37927.05,
         "salary_max": 37927.05,
-        "days_on_market": 159
+        "days_on_market": 160
       },
       {
         "title": "Psychology Teacher \u2013 Independent School \u2013 January Start",
         "company": "Marchant Recruitment",
         "salary_min": 38994.82,
         "salary_max": 38994.82,
-        "days_on_market": 186
+        "days_on_market": 187
       },
       {
         "title": "Business and Economics Teacher",
         "company": "Long-term Teachers Ltd",
         "salary_min": 41600.0,
         "salary_max": 59800.0,
-        "days_on_market": 312
+        "days_on_market": 313
       },
       {
         "title": "English Tutor (Secondary Levels & above)",
         "company": "Tutor Doctor",
         "salary_min": 35360.0,
         "salary_max": 47840.0,
-        "days_on_market": 404
+        "days_on_market": 405
       },
       {
         "title": "Maths Tutor (Secondary levels & above)",
         "company": "Tutor Doctor",
         "salary_min": 35360.0,
         "salary_max": 45760.0,
-        "days_on_market": 404
+        "days_on_market": 405
       },
       {
         "title": "Primary Level Tutor (Literacy and Numeracy)",
         "company": "Tutor Doctor",
         "salary_min": 35360.0,
         "salary_max": 45760.0,
-        "days_on_market": 404
+        "days_on_market": 405
       },
       {
         "title": "Special Education Needs Tutor",
         "company": "Tutor Doctor",
         "salary_min": 39520.0,
         "salary_max": 52000.0,
-        "days_on_market": 404
+        "days_on_market": 405
       },
       {
         "title": "Science Teacher",
         "company": "Long-term Teachers Ltd",
         "salary_min": 30000.0,
         "salary_max": 60000.0,
-        "days_on_market": 506
+        "days_on_market": 507
       },
       {
         "title": "Online Graphic Design Tutoring Job in Bristol \u2013 Flexible Schedule",
         "company": "FindTutors",
         "salary_min": 44432.77,
         "salary_max": 44432.77,
-        "days_on_market": 1329
+        "days_on_market": 1330
       }
     ]
   },
   {
     "category": "Finance",
-    "vacancies": 74,
-    "friction": 32.7,
+    "vacancies": 77,
+    "friction": 33.2,
     "target": 45,
     "jobs": [
       {
-        "title": "Finance Officer",
-        "company": "HAYS",
-        "salary_min": 34279.82,
-        "salary_max": 34279.82,
-        "days_on_market": 1
+        "title": "Product Owner - Finance and Corporate Data",
+        "company": "Motability Operations",
+        "salary_min": 72187.23,
+        "salary_max": 72187.23,
+        "days_on_market": 0
       },
       {
-        "title": "Quality Auditor",
-        "company": "Yeo Valley",
-        "salary_min": 33594.26,
-        "salary_max": 33594.26,
+        "title": "Finance Manager",
+        "company": "William Henry Associates",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 0
+      },
+      {
+        "title": "Customer Experience Advisor | S1 | Retail Banking | Bristol KW Branch",
+        "company": "Banco Santander",
+        "salary_min": 25000.0,
+        "salary_max": 31579.0,
         "days_on_market": 1
       },
       {
@@ -3111,63 +3111,14 @@
         "company": "Experis",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 1
-      },
-      {
-        "title": "Commercial Finance Analyst",
-        "company": "HAYS",
-        "salary_min": 52136.87,
-        "salary_max": 52136.87,
         "days_on_market": 2
       },
       {
-        "title": "Security Auditor",
-        "company": "Experis",
-        "salary_min": 55000.0,
-        "salary_max": 65000.0,
+        "title": "Quality Auditor",
+        "company": "Yeo Valley",
+        "salary_min": 33594.26,
+        "salary_max": 33594.26,
         "days_on_market": 2
-      },
-      {
-        "title": "Interim Financial Accountant",
-        "company": "Hays",
-        "salary_min": 78598.96,
-        "salary_max": 78598.96,
-        "days_on_market": 3
-      },
-      {
-        "title": "Finance Manager",
-        "company": "Hays",
-        "salary_min": 44989.52,
-        "salary_max": 44989.52,
-        "days_on_market": 3
-      },
-      {
-        "title": "Head of Finance",
-        "company": "Hays",
-        "salary_min": 60630.32,
-        "salary_max": 60630.32,
-        "days_on_market": 3
-      },
-      {
-        "title": "School Finance Business Manager",
-        "company": "Hays",
-        "salary_min": 42727.44,
-        "salary_max": 42727.44,
-        "days_on_market": 3
-      },
-      {
-        "title": "Senior Finance Analyst",
-        "company": "Hays",
-        "salary_min": 47364.03,
-        "salary_max": 47364.03,
-        "days_on_market": 3
-      },
-      {
-        "title": "Interim Finance Administrator",
-        "company": "Hays",
-        "salary_min": 38376.1,
-        "salary_max": 38376.1,
-        "days_on_market": 3
       },
       {
         "title": "Cyber Security Auditor",
@@ -3177,24 +3128,66 @@
         "days_on_market": 3
       },
       {
+        "title": "Security Auditor",
+        "company": "Experis",
+        "salary_min": 55000.0,
+        "salary_max": 65000.0,
+        "days_on_market": 3
+      },
+      {
+        "title": "Commercial Finance Analyst",
+        "company": "HAYS",
+        "salary_min": 52136.87,
+        "salary_max": 52136.87,
+        "days_on_market": 3
+      },
+      {
+        "title": "Finance Manager",
+        "company": "Hays",
+        "salary_min": 44989.52,
+        "salary_max": 44989.52,
+        "days_on_market": 4
+      },
+      {
+        "title": "Interim Finance Administrator",
+        "company": "Hays",
+        "salary_min": 38376.1,
+        "salary_max": 38376.1,
+        "days_on_market": 4
+      },
+      {
+        "title": "School Finance Business Manager",
+        "company": "Hays",
+        "salary_min": 42727.44,
+        "salary_max": 42727.44,
+        "days_on_market": 4
+      },
+      {
+        "title": "Senior Finance Analyst",
+        "company": "Hays",
+        "salary_min": 47364.03,
+        "salary_max": 47364.03,
+        "days_on_market": 4
+      },
+      {
+        "title": "Head of Finance",
+        "company": "Hays",
+        "salary_min": 60630.32,
+        "salary_max": 60630.32,
+        "days_on_market": 4
+      },
+      {
         "title": "Finance Manager",
         "company": "Hays",
         "salary_min": 48865.29,
         "salary_max": 48865.29,
-        "days_on_market": 3
-      },
-      {
-        "title": "Assistant Management Accountant",
-        "company": "Core 3 Ltd",
-        "salary_min": 40000.0,
-        "salary_max": 40000.0,
         "days_on_market": 4
       },
       {
-        "title": "Junior/Senior Costing Accountant",
-        "company": "Systems Engineering and Assessment Limited",
-        "salary_min": 45000.0,
-        "salary_max": 45000.0,
+        "title": "Interim Financial Accountant",
+        "company": "Hays",
+        "salary_min": 78598.96,
+        "salary_max": 78598.96,
         "days_on_market": 4
       },
       {
@@ -3202,139 +3195,146 @@
         "company": "Reed",
         "salary_min": 35360.0,
         "salary_max": 35360.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Finance Business Partner",
-        "company": "Core 3 Ltd",
-        "salary_min": 70000.0,
-        "salary_max": 70000.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Finance Manager",
-        "company": "Hays",
-        "salary_min": 45000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
         "title": "Finance Manager",
         "company": "Hays",
         "salary_min": 50000.0,
         "salary_max": 50000.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
         "title": "Finance Assistant",
         "company": "Kings Court Trust",
         "salary_min": 26000.0,
         "salary_max": 26000.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
-        "title": "Head of Finance",
-        "company": "Core 3 Ltd",
-        "salary_min": 85000.0,
-        "salary_max": 85000.0,
-        "days_on_market": 4
+        "title": "Finance Manager",
+        "company": "Hays",
+        "salary_min": 45000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 5
       },
       {
         "title": "Commercial Finance Manager",
         "company": "SF Partners Admin",
         "salary_min": 75000.0,
         "salary_max": 75000.0,
-        "days_on_market": 4
+        "days_on_market": 5
+      },
+      {
+        "title": "Head of Finance",
+        "company": "Core 3 Ltd",
+        "salary_min": 85000.0,
+        "salary_max": 85000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Finance Business Partner",
+        "company": "Core 3 Ltd",
+        "salary_min": 70000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Junior/Senior Costing Accountant",
+        "company": "Systems Engineering and Assessment Limited",
+        "salary_min": 45000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Assistant Management Accountant",
+        "company": "Core 3 Ltd",
+        "salary_min": 40000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Integration and Systems Accountant",
+        "company": "Morgan McKinley",
+        "salary_min": 54153.51,
+        "salary_max": 54153.51,
+        "days_on_market": 6
       },
       {
         "title": "Asistant Accountant",
         "company": "Ashley Rees Associates",
         "salary_min": 30000.0,
         "salary_max": 35000.0,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Risk Accountant",
         "company": "Artis Recruitment",
         "salary_min": 35000.0,
         "salary_max": 40000.0,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Trainee Accountant (Graduate / AAT Qualified)",
         "company": "B Career Centre",
         "salary_min": 30000.0,
         "salary_max": 30000.0,
-        "days_on_market": 6
+        "days_on_market": 7
       },
       {
         "title": "Group Quality Auditor",
         "company": "MBDA UK",
         "salary_min": 50000.0,
         "salary_max": 50000.0,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
         "title": "Systems Accountant",
         "company": "Robert Half Limited",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
         "title": "Systems Accountant",
         "company": "Robert Half",
         "salary_min": 35000.0,
         "salary_max": 40000.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Group Finance Assistant - Bristol",
         "company": "Crest Hotels Group",
         "salary_min": 30000.0,
         "salary_max": NaN,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Procurement Finance Business Partner",
         "company": "Guidant Global",
         "salary_min": 88051.0,
         "salary_max": 88051.0,
-        "days_on_market": 9
-      },
-      {
-        "title": "Accountant",
-        "company": "Sellick Partnership",
-        "salary_min": 42000.0,
-        "salary_max": 50000.0,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Forensic Accountant",
         "company": "Artis Accounting & Finance",
         "salary_min": 40000.0,
         "salary_max": 40000.0,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Accountant",
         "company": "Sellick Partnership",
         "salary_min": 42000.0,
         "salary_max": 50000.0,
-        "days_on_market": 9
-      },
-      {
-        "title": "Head of Finance and Central Services",
-        "company": "Yolk Recruitment Limited",
-        "salary_min": 60000.0,
-        "salary_max": 60000.0,
         "days_on_market": 10
       },
       {
         "title": "Accountant",
-        "company": "Pertemps Bristol Commercial",
-        "salary_min": 50000.0,
-        "salary_max": 60000.0,
+        "company": "Sellick Partnership",
+        "salary_min": 42000.0,
+        "salary_max": 50000.0,
         "days_on_market": 10
       },
       {
@@ -3342,181 +3342,174 @@
         "company": "Michael Page Finance",
         "salary_min": 50000.0,
         "salary_max": 55000.0,
-        "days_on_market": 10
+        "days_on_market": 11
+      },
+      {
+        "title": "Accountant",
+        "company": "Pertemps Bristol Commercial",
+        "salary_min": 50000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 11
+      },
+      {
+        "title": "Head of Finance and Central Services",
+        "company": "Yolk Recruitment Limited",
+        "salary_min": 60000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 11
       },
       {
         "title": "Practice Accountant",
         "company": "Reed",
         "salary_min": 45000.0,
         "salary_max": 55000.0,
-        "days_on_market": 12
+        "days_on_market": 13
       },
       {
         "title": "Night Auditor - Moxy Bristol",
         "company": "Hotel Co 51",
         "salary_min": 25829.91,
         "salary_max": 25829.91,
-        "days_on_market": 14
+        "days_on_market": 15
       },
       {
         "title": "Group Accountant - Technical",
         "company": "Morgan Law",
         "salary_min": 45000.0,
         "salary_max": 51000.0,
-        "days_on_market": 15
-      },
-      {
-        "title": "Finance Business Partner",
-        "company": "Hays",
-        "salary_min": 51268.19,
-        "salary_max": 51268.19,
-        "days_on_market": 17
+        "days_on_market": 16
       },
       {
         "title": "Part-Qualified Accountant",
         "company": "Hays",
         "salary_min": 42865.68,
         "salary_max": 42865.68,
-        "days_on_market": 17
-      },
-      {
-        "title": "Group Accountant",
-        "company": "Hays",
-        "salary_min": 46613.71,
-        "salary_max": 46613.71,
-        "days_on_market": 17
+        "days_on_market": 18
       },
       {
         "title": "Interim group financial accountant",
         "company": "Hays",
         "salary_min": 64712.59,
         "salary_max": 64712.59,
-        "days_on_market": 17
-      },
-      {
-        "title": "Project Accountant / Business Partner",
-        "company": "Hays",
-        "salary_min": 61926.93,
-        "salary_max": 61926.93,
-        "days_on_market": 17
-      },
-      {
-        "title": "Accountant / Senior Accountant",
-        "company": "Hays",
-        "salary_min": 43663.97,
-        "salary_max": 43663.97,
-        "days_on_market": 17
-      },
-      {
-        "title": "Group Finance Manager",
-        "company": "Hays",
-        "salary_min": 59945.1,
-        "salary_max": 59945.1,
-        "days_on_market": 17
-      },
-      {
-        "title": "Interim, Temp, Contract finance roles",
-        "company": "Hays",
-        "salary_min": 73403.84,
-        "salary_max": 73403.84,
-        "days_on_market": 17
-      },
-      {
-        "title": "Interim Finance Administrator (AR focus)",
-        "company": "Hays",
-        "salary_min": 35887.21,
-        "salary_max": 35887.21,
-        "days_on_market": 17
-      },
-      {
-        "title": "Senior Financial Accountant",
-        "company": "Right Pear",
-        "salary_min": 50000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 17
+        "days_on_market": 18
       },
       {
         "title": "Interim Finance Administrator (AP focus)",
         "company": "Hays",
         "salary_min": 39541.31,
         "salary_max": 39541.31,
-        "days_on_market": 17
+        "days_on_market": 18
+      },
+      {
+        "title": "Interim, Temp, Contract finance roles",
+        "company": "Hays",
+        "salary_min": 73403.84,
+        "salary_max": 73403.84,
+        "days_on_market": 18
+      },
+      {
+        "title": "Interim Finance Administrator (AR focus)",
+        "company": "Hays",
+        "salary_min": 35887.21,
+        "salary_max": 35887.21,
+        "days_on_market": 18
+      },
+      {
+        "title": "Finance Business Partner",
+        "company": "Hays",
+        "salary_min": 51268.19,
+        "salary_max": 51268.19,
+        "days_on_market": 18
+      },
+      {
+        "title": "Accountant / Senior Accountant",
+        "company": "Hays",
+        "salary_min": 43663.97,
+        "salary_max": 43663.97,
+        "days_on_market": 18
+      },
+      {
+        "title": "Group Accountant",
+        "company": "Hays",
+        "salary_min": 46613.71,
+        "salary_max": 46613.71,
+        "days_on_market": 18
+      },
+      {
+        "title": "Senior Financial Accountant",
+        "company": "Right Pear",
+        "salary_min": 50000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 18
+      },
+      {
+        "title": "Group Finance Manager",
+        "company": "Hays",
+        "salary_min": 59945.1,
+        "salary_max": 59945.1,
+        "days_on_market": 18
       },
       {
         "title": "Senior Accountant (Practice)",
         "company": "Reed",
         "salary_min": 45000.0,
         "salary_max": 55000.0,
-        "days_on_market": 19
-      },
-      {
-        "title": "Financial Accountant - FTC",
-        "company": "Core 3 Ltd",
-        "salary_min": 55000.0,
-        "salary_max": 55000.0,
-        "days_on_market": 22
+        "days_on_market": 20
       },
       {
         "title": "Senior Financial Accountant",
         "company": "Hays Specialist Recruitment Limited",
         "salary_min": 60000.0,
         "salary_max": 70000.0,
-        "days_on_market": 22
+        "days_on_market": 23
+      },
+      {
+        "title": "Financial Accountant - FTC",
+        "company": "Core 3 Ltd",
+        "salary_min": 55000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 23
       },
       {
         "title": "Senior Financial Accountant",
         "company": "Hays Senior Finance",
         "salary_min": 60000.0,
         "salary_max": 70000.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "ISO Lead Auditor / ISO Consultant - South West, England",
         "company": "IMSM",
         "salary_min": 48362.13,
         "salary_max": 48362.13,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Senior Accountant",
         "company": "Ashley Rees Associates",
         "salary_min": 50000.0,
         "salary_max": 55000.0,
-        "days_on_market": 24
-      },
-      {
-        "title": "Accountant",
-        "company": "Smurfit Westrock",
-        "salary_min": 57121.52,
-        "salary_max": 57121.52,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Real Estate Finance Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 74279.59,
         "salary_max": 74279.59,
-        "days_on_market": 24
+        "days_on_market": 25
+      },
+      {
+        "title": "Accountant",
+        "company": "Smurfit Westrock",
+        "salary_min": 57121.52,
+        "salary_max": 57121.52,
+        "days_on_market": 25
       },
       {
         "title": "Finance Manager",
         "company": "Core 3 Ltd",
         "salary_min": 70000.0,
         "salary_max": 70000.0,
-        "days_on_market": 25
-      },
-      {
-        "title": "Senior Accountant",
-        "company": "Michael Page Finance",
-        "salary_min": 40000.0,
-        "salary_max": 48000.0,
-        "days_on_market": 26
-      },
-      {
-        "title": "Managing Consultant - Accountancy & Finance",
-        "company": "hays",
-        "salary_min": 40000.0,
-        "salary_max": 55000.0,
         "days_on_market": 26
       },
       {
@@ -3524,98 +3517,119 @@
         "company": "Michael Page Finance",
         "salary_min": 35000.0,
         "salary_max": 45000.0,
-        "days_on_market": 26
+        "days_on_market": 27
+      },
+      {
+        "title": "Senior Accountant",
+        "company": "Michael Page Finance",
+        "salary_min": 40000.0,
+        "salary_max": 48000.0,
+        "days_on_market": 27
+      },
+      {
+        "title": "Managing Consultant - Accountancy & Finance",
+        "company": "hays",
+        "salary_min": 40000.0,
+        "salary_max": 55000.0,
+        "days_on_market": 27
       },
       {
         "title": "Finance & Office Manager",
         "company": "WH Bence",
         "salary_min": 42723.45,
         "salary_max": 42723.45,
-        "days_on_market": 28
+        "days_on_market": 29
       },
       {
         "title": "Finance Manager",
         "company": "Robert Half Limited",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Management Accountant",
         "company": "Robert Half Limited",
         "salary_min": 63098.79,
         "salary_max": 63098.79,
-        "days_on_market": 37
+        "days_on_market": 38
       },
       {
         "title": "Graduate Retail Banking Associate",
         "company": "GOLDEN HIRING LIMITED",
         "salary_min": 35000.0,
         "salary_max": 35000.0,
-        "days_on_market": 39
+        "days_on_market": 40
       },
       {
         "title": "Group Financial Accountant",
         "company": "Knovia",
         "salary_min": 0.0,
         "salary_max": 55000.0,
-        "days_on_market": 43
+        "days_on_market": 44
       },
       {
         "title": "Finance Assistant \u2013 Lovely Secondary School - Bristol \u2013 ASAP Start",
         "company": "Marchant Recruitment",
         "salary_min": 33119.83,
         "salary_max": 33119.83,
-        "days_on_market": 56
+        "days_on_market": 57
       },
       {
         "title": "Management Accountant",
         "company": "Hays",
         "salary_min": 36199.53,
         "salary_max": 36199.53,
-        "days_on_market": 64
+        "days_on_market": 65
+      },
+      {
+        "title": "Complaints Handler Lloyds Banking Group",
+        "company": "Teleperformance",
+        "salary_min": 40348.0,
+        "salary_max": 40348.0,
+        "days_on_market": 70
       },
       {
         "title": "Senior Financial Accountant",
         "company": "Hays",
         "salary_min": 57622.92,
         "salary_max": 57622.92,
-        "days_on_market": 74
+        "days_on_market": 75
       },
       {
         "title": "Of Counsel - Real Estate Finance",
         "company": "Simmons & Simmons",
         "salary_min": 76802.76,
         "salary_max": 76802.76,
-        "days_on_market": 87
+        "days_on_market": 88
       },
       {
         "title": "Senior Finance Professional (Multiple Opportunities)",
         "company": "Hire Resolve.com",
         "salary_min": 60000.0,
         "salary_max": 100000.0,
-        "days_on_market": 122
+        "days_on_market": 123
       },
       {
         "title": "Information Security and AI Auditor",
         "company": "Tempo Audits",
         "salary_min": 67461.37,
         "salary_max": 67461.37,
-        "days_on_market": 171
+        "days_on_market": 172
       },
       {
         "title": "Internal Auditor Assistant - Bristol - Placement - August 2024",
         "company": "RSM",
         "salary_min": 32710.22,
         "salary_max": 32710.22,
-        "days_on_market": 976
+        "days_on_market": 977
       }
     ]
   },
   {
     "category": "Legal",
     "vacancies": 111,
-    "friction": 16.0,
+    "friction": 17.0,
     "target": 40,
     "jobs": [
       {
@@ -3623,181 +3637,153 @@
         "company": "Hays Specialist Recruitment Limited",
         "salary_min": 66590.39,
         "salary_max": 66590.39,
-        "days_on_market": 0
+        "days_on_market": 1
       },
       {
         "title": "Patent Administrator / IP Paralegal",
         "company": "Haseltine Lake Kempner",
         "salary_min": 35055.21,
         "salary_max": 35055.21,
-        "days_on_market": 0
+        "days_on_market": 1
       },
       {
         "title": "Criminal Solicitor",
         "company": "ENL",
         "salary_min": 55975.0,
         "salary_max": 63500.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Conveyancing Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 54774.09,
         "salary_max": 54774.09,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Residential Property Lawyer",
         "company": "Yolk Recruitment Limited",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Litigation Paralegal - PI",
         "company": "Reed",
         "salary_min": 35000.0,
         "salary_max": 40000.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Paralegal",
         "company": "Jago Consultants Ltd",
         "salary_min": 24000.0,
         "salary_max": 29000.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Real Estate Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 69562.48,
         "salary_max": 69562.48,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Litigation Senior Paralegal - Catastrophic injury",
         "company": "Reed",
         "salary_min": 35000.0,
         "salary_max": 40000.0,
-        "days_on_market": 1
+        "days_on_market": 2
       },
       {
         "title": "Employment Practices Litigation Lawyer",
         "company": "Hays Specialist Recruitment Limited",
         "salary_min": 54181.2,
         "salary_max": 54181.2,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Residential Property Lawyer",
         "company": "Yolk Recruitment Ltd",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Real Estate Paralegal",
-        "company": "Hays Specialist Recruitment Limited",
-        "salary_min": 36285.84,
-        "salary_max": 36285.84,
-        "days_on_market": 2
+        "company": "Hays Specialist Recruitment",
+        "salary_min": 27000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 3
       },
       {
         "title": "Residential Property Lawyer",
         "company": "Yolk Recruitment",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Criminal Solicitor",
         "company": "eNL Legal Recruitment",
         "salary_min": 55975.0,
         "salary_max": 63500.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Conveyancing Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 50000.0,
         "salary_max": 60000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Employment Solicitor",
         "company": "Win Berry",
         "salary_min": 51918.75,
         "salary_max": 51918.75,
-        "days_on_market": 2
-      },
-      {
-        "title": "Housing Management Lawyer (Solicitor/CILEx)",
-        "company": "Simpson Judge",
-        "salary_min": 50000.0,
-        "salary_max": 65000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Paralegal",
         "company": "HST Hiring Group",
         "salary_min": 25000.0,
         "salary_max": 28000.0,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
-        "title": "Employment Practices Litigation Lawyer",
-        "company": "Hays Specialist Recruitment",
-        "salary_min": 60000.0,
-        "salary_max": 66000.0,
-        "days_on_market": 2
+        "title": "Real Estate Paralegal",
+        "company": "Hays Specialist Recruitment Limited",
+        "salary_min": 36285.84,
+        "salary_max": 36285.84,
+        "days_on_market": 3
+      },
+      {
+        "title": "Housing Management Lawyer (Solicitor/CILEx)",
+        "company": "Simpson Judge",
+        "salary_min": 50000.0,
+        "salary_max": 65000.0,
+        "days_on_market": 3
       },
       {
         "title": "Patent Administrator / IP Paralegal",
         "company": "Haseltine Lake Kempner",
         "salary_min": 36244.85,
         "salary_max": 36244.85,
-        "days_on_market": 2
+        "days_on_market": 3
       },
       {
         "title": "Property Paralegal",
         "company": "Mallory Pryce",
         "salary_min": 25791.76,
         "salary_max": 25791.76,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
         "title": "Real Estate Paralegal",
         "company": "Hays Specialist Recruitment Limited",
         "salary_min": 27000.0,
         "salary_max": 40000.0,
-        "days_on_market": 3
-      },
-      {
-        "title": "Consultant Property Lawyer / Consultant Property Solicitor",
-        "company": "Eden Conveyancing",
-        "salary_min": 55000.0,
-        "salary_max": 400000.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Case Cover Property Lawyer / Case Cover Conveyancer",
-        "company": "Eden Conveyancing",
-        "salary_min": 30000.0,
-        "salary_max": 40000.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Employment Solicitor",
-        "company": "Reed",
-        "salary_min": 50000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 4
-      },
-      {
-        "title": "Residential Property Lawyer",
-        "company": "Capio Recruitment Legal",
-        "salary_min": 50000.0,
-        "salary_max": 70000.0,
         "days_on_market": 4
       },
       {
@@ -3805,13 +3791,34 @@
         "company": "Eden Conveyancing",
         "salary_min": 30000.0,
         "salary_max": 58000.0,
-        "days_on_market": 4
+        "days_on_market": 5
       },
       {
-        "title": "Conveyancing Solicitor",
+        "title": "Case Cover Property Lawyer / Case Cover Conveyancer",
+        "company": "Eden Conveyancing",
+        "salary_min": 30000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Employment Solicitor",
         "company": "Reed",
-        "salary_min": 53164.57,
-        "salary_max": 53164.57,
+        "salary_min": 50000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Residential Property Lawyer",
+        "company": "Capio Recruitment Legal",
+        "salary_min": 50000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 5
+      },
+      {
+        "title": "Consultant Property Lawyer / Consultant Property Solicitor",
+        "company": "Eden Conveyancing",
+        "salary_min": 55000.0,
+        "salary_max": 400000.0,
         "days_on_market": 5
       },
       {
@@ -3819,244 +3826,223 @@
         "company": "Reed",
         "salary_min": 48153.6,
         "salary_max": 48153.6,
-        "days_on_market": 5
+        "days_on_market": 6
+      },
+      {
+        "title": "Conveyancing Solicitor",
+        "company": "Reed",
+        "salary_min": 53164.57,
+        "salary_max": 53164.57,
+        "days_on_market": 6
       },
       {
         "title": "Solicitor",
         "company": "Reed",
         "salary_min": 46063.18,
         "salary_max": 46063.18,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Senior Privacy Lawyer",
         "company": "Matchtech",
         "salary_min": 150800.0,
         "salary_max": 182000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Property Solicitor",
-        "company": "Reed",
-        "salary_min": 40948.77,
-        "salary_max": 40948.77,
-        "days_on_market": 5
-      },
-      {
-        "title": "Senior Paralegal",
-        "company": "TSR Legal Recruitment",
-        "salary_min": 35000.0,
-        "salary_max": 35000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Complex Paralegal",
-        "company": "Keoghs LLP",
-        "salary_min": 38240.3,
-        "salary_max": 38240.3,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Employment Solicitor",
         "company": "Reed",
         "salary_min": 47989.52,
         "salary_max": 47989.52,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
-        "title": "Solicitor/Associate",
-        "company": "Birketts LLP",
-        "salary_min": 83283.26,
-        "salary_max": 83283.26,
-        "days_on_market": 5
-      },
-      {
-        "title": "Litigation Solicitor",
-        "company": "Reed",
-        "salary_min": 40000.0,
-        "salary_max": 50000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Employment Senior Paralegal",
-        "company": "Reed",
-        "salary_min": 35000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Court of Protection Solicitor",
-        "company": "Yolk Recruitment Ltd",
-        "salary_min": 60000.0,
-        "salary_max": 60000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Claimant Personal Injury Solicitor / Senior Paralegal / Legal Executive - Bristol",
-        "company": "qed legal",
-        "salary_min": 35000.0,
-        "salary_max": 65000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Employment Solicitor or Senior Paralegal",
-        "company": "Reed",
-        "salary_min": 35000.0,
-        "salary_max": 45000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Residential Conveyancing Property Lawyer",
+        "title": "Senior Paralegal",
         "company": "TSR Legal Recruitment",
-        "salary_min": 40000.0,
-        "salary_max": 54000.0,
-        "days_on_market": 5
-      },
-      {
-        "title": "Qualified Property Lawyer - Residential Conveyancing",
-        "company": "Reed",
-        "salary_min": 52137.31,
-        "salary_max": 52137.31,
-        "days_on_market": 5
+        "salary_min": 35000.0,
+        "salary_max": 35000.0,
+        "days_on_market": 6
       },
       {
         "title": "Paralegal",
         "company": "TSR Legal Recruitment",
         "salary_min": 26000.0,
         "salary_max": 28000.0,
-        "days_on_market": 5
+        "days_on_market": 6
+      },
+      {
+        "title": "Property Solicitor",
+        "company": "Reed",
+        "salary_min": 40948.77,
+        "salary_max": 40948.77,
+        "days_on_market": 6
+      },
+      {
+        "title": "Solicitor/Associate",
+        "company": "Birketts LLP",
+        "salary_min": 83283.26,
+        "salary_max": 83283.26,
+        "days_on_market": 6
+      },
+      {
+        "title": "Employment Solicitor or Senior Paralegal",
+        "company": "Reed",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 6
+      },
+      {
+        "title": "Employment Senior Paralegal",
+        "company": "Reed",
+        "salary_min": 35000.0,
+        "salary_max": 45000.0,
+        "days_on_market": 6
+      },
+      {
+        "title": "Court of Protection Solicitor",
+        "company": "Yolk Recruitment Ltd",
+        "salary_min": 60000.0,
+        "salary_max": 60000.0,
+        "days_on_market": 6
+      },
+      {
+        "title": "Claimant Personal Injury Solicitor / Senior Paralegal / Legal Executive - Bristol",
+        "company": "qed legal",
+        "salary_min": 35000.0,
+        "salary_max": 65000.0,
+        "days_on_market": 6
+      },
+      {
+        "title": "Qualified Property Lawyer - Residential Conveyancing",
+        "company": "Reed",
+        "salary_min": 52137.31,
+        "salary_max": 52137.31,
+        "days_on_market": 6
+      },
+      {
+        "title": "Complex Paralegal",
+        "company": "Keoghs LLP",
+        "salary_min": 38240.3,
+        "salary_max": 38240.3,
+        "days_on_market": 6
+      },
+      {
+        "title": "Residential Conveyancing Property Lawyer",
+        "company": "TSR Legal Recruitment",
+        "salary_min": 40000.0,
+        "salary_max": 54000.0,
+        "days_on_market": 6
       },
       {
         "title": "Commercial Property Paralegal",
         "company": "G2 Legal Limited",
         "salary_min": 32712.44,
         "salary_max": 32712.44,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
         "title": "Private Client Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 65670.08,
         "salary_max": 65670.08,
-        "days_on_market": 7
-      },
-      {
-        "title": "Procurement Solicitor",
-        "company": "G2 Legal Limited",
-        "salary_min": 61714.57,
-        "salary_max": 61714.57,
-        "days_on_market": 7
-      },
-      {
-        "title": "Real Estate Paralegal",
-        "company": "G2 Legal Limited",
-        "salary_min": 42898.32,
-        "salary_max": 42898.32,
-        "days_on_market": 7
+        "days_on_market": 8
       },
       {
         "title": "Conveyancing Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 49523.07,
         "salary_max": 49523.07,
-        "days_on_market": 7
+        "days_on_market": 8
+      },
+      {
+        "title": "Procurement Solicitor",
+        "company": "G2 Legal Limited",
+        "salary_min": 61714.57,
+        "salary_max": 61714.57,
+        "days_on_market": 8
+      },
+      {
+        "title": "Real Estate Paralegal",
+        "company": "G2 Legal Limited",
+        "salary_min": 42898.32,
+        "salary_max": 42898.32,
+        "days_on_market": 8
       },
       {
         "title": "Procurement Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 63000.0,
         "salary_max": 75000.0,
-        "days_on_market": 8
-      },
-      {
-        "title": "Conveyancing Solicitor",
-        "company": "G2 Legal Limited",
-        "salary_min": 39000.0,
-        "salary_max": 49000.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Clinical Negligence Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 61508.74,
         "salary_max": 61508.74,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
-        "title": "Senior University Lawyer (Contracts)",
-        "company": "Bath Spa University",
-        "salary_min": 68000.0,
-        "salary_max": 72000.0,
-        "days_on_market": 8
-      },
-      {
-        "title": "Corporate Lawyer - 4 PQE - Bristol",
-        "company": "Chadwick Nott - South West and South Wales",
-        "salary_min": 75000.0,
-        "salary_max": 95000.0,
-        "days_on_market": 8
-      },
-      {
-        "title": "Commercial Property Paralegal",
+        "title": "Conveyancing Solicitor",
         "company": "G2 Legal Limited",
-        "salary_min": 35000.0,
-        "salary_max": 42000.0,
-        "days_on_market": 8
+        "salary_min": 39000.0,
+        "salary_max": 49000.0,
+        "days_on_market": 9
       },
       {
         "title": "Personal Injury Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 59848.96,
         "salary_max": 59848.96,
-        "days_on_market": 8
+        "days_on_market": 9
+      },
+      {
+        "title": "Corporate Lawyer - 4 PQE - Bristol",
+        "company": "Chadwick Nott - South West and South Wales",
+        "salary_min": 75000.0,
+        "salary_max": 95000.0,
+        "days_on_market": 9
+      },
+      {
+        "title": "Commercial Property Paralegal",
+        "company": "G2 Legal Limited",
+        "salary_min": 35000.0,
+        "salary_max": 42000.0,
+        "days_on_market": 9
+      },
+      {
+        "title": "Senior University Lawyer (Contracts)",
+        "company": "Bath Spa University",
+        "salary_min": 68000.0,
+        "salary_max": 72000.0,
+        "days_on_market": 9
       },
       {
         "title": "Private Client Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 63000.0,
         "salary_max": 73000.0,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
         "title": "Clinical Negligence Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 58000.0,
         "salary_max": 68000.0,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Commercial Property Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 54677.28,
         "salary_max": 54677.28,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Corporate Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 66016.76,
         "salary_max": 66016.76,
-        "days_on_market": 10
-      },
-      {
-        "title": "Corporate Solicitor",
-        "company": "G2 Legal Limited",
-        "salary_min": 72000.0,
-        "salary_max": 85000.0,
-        "days_on_market": 11
-      },
-      {
-        "title": "Construction Solicitor",
-        "company": "G2 Legal Limited",
-        "salary_min": 79047.36,
-        "salary_max": 79047.36,
-        "days_on_market": 11
-      },
-      {
-        "title": "Commercial Property Solicitor",
-        "company": "G2 Legal Limited",
-        "salary_min": 50000.0,
-        "salary_max": 70000.0,
         "days_on_market": 11
       },
       {
@@ -4064,97 +4050,118 @@
         "company": "Alexander Mae  Ltd",
         "salary_min": 30000.0,
         "salary_max": 30000.0,
-        "days_on_market": 11
+        "days_on_market": 12
+      },
+      {
+        "title": "Corporate Solicitor",
+        "company": "G2 Legal Limited",
+        "salary_min": 72000.0,
+        "salary_max": 85000.0,
+        "days_on_market": 12
+      },
+      {
+        "title": "Commercial Property Solicitor",
+        "company": "G2 Legal Limited",
+        "salary_min": 50000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 12
+      },
+      {
+        "title": "Construction Solicitor",
+        "company": "G2 Legal Limited",
+        "salary_min": 79047.36,
+        "salary_max": 79047.36,
+        "days_on_market": 12
       },
       {
         "title": "Construction Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 75000.0,
         "salary_max": 95000.0,
-        "days_on_market": 12
+        "days_on_market": 13
+      },
+      {
+        "title": "Commercial Property Solicitor",
+        "company": "ENL",
+        "salary_min": 75000.0,
+        "salary_max": 85000.0,
+        "days_on_market": 15
       },
       {
         "title": "Professional Indemnity Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 56635.18,
         "salary_max": 56635.18,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Insurance Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 71816.57,
         "salary_max": 71816.57,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Senior Privacy Lawyer",
         "company": "Matchtech",
         "salary_min": 150800.0,
         "salary_max": 182000.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Family Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 56443.22,
         "salary_max": 56443.22,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Insurance Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 67000.0,
         "salary_max": 77000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Private Client Solicitor",
         "company": "Yolk Recruitment Ltd",
         "salary_min": 0.0,
         "salary_max": 55000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Family Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 64000.0,
         "salary_max": 74000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Professional Indemnity Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 67000.0,
         "salary_max": 77000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Paralegal",
         "company": "Bison Solicitors Limited",
         "salary_min": 24000.0,
         "salary_max": 24000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Court of Protection Solicitor",
         "company": "Yolk Recruitment",
         "salary_min": 60000.0,
         "salary_max": 60000.0,
-        "days_on_market": 16
+        "days_on_market": 17
       },
       {
         "title": "Court of Protection Solicitor",
         "company": "Yolk Recruitment Ltd",
         "salary_min": 0.0,
         "salary_max": 60000.0,
-        "days_on_market": 16
-      },
-      {
-        "title": "Legal Assistant / Lawyer | Clinical Negligence / Personal Injury",
-        "company": "TSR Legal",
-        "salary_min": 26000.0,
-        "salary_max": 28000.0,
         "days_on_market": 17
       },
       {
@@ -4162,329 +4169,329 @@
         "company": "Alexander Mae  Ltd",
         "salary_min": 29723.0,
         "salary_max": 29723.0,
-        "days_on_market": 17
+        "days_on_market": 18
+      },
+      {
+        "title": "Legal Assistant / Lawyer | Clinical Negligence / Personal Injury",
+        "company": "TSR Legal",
+        "salary_min": 26000.0,
+        "salary_max": 28000.0,
+        "days_on_market": 18
       },
       {
         "title": "Landlord & Tennant Solicitor",
         "company": "Austen Lloyd Limited",
         "salary_min": 67073.38,
         "salary_max": 67073.38,
-        "days_on_market": 17
+        "days_on_market": 18
       },
       {
         "title": "Commercial, Technology and Media Lawyer",
         "company": "Lipson Lloyd-Jones",
         "salary_min": 70240.3,
         "salary_max": 70240.3,
-        "days_on_market": 18
+        "days_on_market": 19
       },
       {
         "title": "Private Client Fee Earner/Lawyer",
         "company": "Yolk Recruitment",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Private Client Fee Earner/Lawyer",
         "company": "Yolk Recruitment Ltd",
         "salary_min": 0.0,
         "salary_max": 65000.0,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Claimant Personal Injury Solicitor / FCILEx / Senior Paralegal",
         "company": "Lyons Davidson Solicitors",
         "salary_min": 30750.22,
         "salary_max": 30750.22,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Residential Conveyancing Property Lawyer",
         "company": "TSR Legal",
         "salary_min": 52827.46,
         "salary_max": 52827.46,
-        "days_on_market": 20
+        "days_on_market": 21
       },
       {
         "title": "Residential Property Solicitor / Licensed Conveyancer",
         "company": "Ambitiousgroup",
         "salary_min": 55621.17,
         "salary_max": 55621.17,
-        "days_on_market": 20
+        "days_on_market": 21
       },
       {
         "title": "Commercial Property Solicitor",
         "company": "Ambitiousgroup",
         "salary_min": 58479.74,
         "salary_max": 58479.74,
-        "days_on_market": 20
+        "days_on_market": 21
       },
       {
         "title": "Corporate and Commercial Solicitor",
         "company": "Yolk Recruitment Limited",
         "salary_min": 75000.0,
         "salary_max": 75000.0,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Residential Conveyancing Property Lawyer",
         "company": "TSR Legal",
         "salary_min": 48313.73,
         "salary_max": 48313.73,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Education Solicitor/Associate 1 years\u2019 PQE BRISTOL",
         "company": "Farrar Levin Legal Recruitment",
         "salary_min": 61407.35,
         "salary_max": 61407.35,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Professional Indemnity Lawyer / Associate | Bristol | Hybrid",
         "company": "Hays Specialist Recruitment Limited",
         "salary_min": 53414.71,
         "salary_max": 53414.71,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Court of Protection Paralegal",
         "company": "G2 Legal Limited",
         "salary_min": 32258.03,
         "salary_max": 32258.03,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Contracts Disputes Lawyer | Bristol | Hybrid",
         "company": "Hays Specialist Recruitment Limited",
         "salary_min": 45720.93,
         "salary_max": 45720.93,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Court of Protection Solicitor",
         "company": "Bydand Recruitment Group",
         "salary_min": 65000.0,
         "salary_max": 65000.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Court of Protection Paralegal",
         "company": "G2 Legal Limited",
         "salary_min": 33420.14,
         "salary_max": 33420.14,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Corporate Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 77590.12,
         "salary_max": 77590.12,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Court of Protection Paralegal",
         "company": "G2 Legal Limited",
         "salary_min": 25000.0,
         "salary_max": 29500.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Family Solicitor",
         "company": "JMC Legal Recruitment",
         "salary_min": 50000.0,
         "salary_max": 65000.0,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Corporate Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 97787.4,
         "salary_max": 97787.4,
-        "days_on_market": 24
+        "days_on_market": 25
       },
       {
         "title": "Corporate Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 95000.0,
         "salary_max": 105000.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Conveyancing Paralegal",
         "company": "Mallory Pryce",
         "salary_min": 25472.39,
         "salary_max": 25472.39,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Commercial Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 71014.61,
         "salary_max": 71014.61,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Property Litigation Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 50519.58,
         "salary_max": 50519.58,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Corporate Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 90000.0,
         "salary_max": 110000.0,
-        "days_on_market": 25
+        "days_on_market": 26
       },
       {
         "title": "Property Litigation Solicitor",
         "company": "G2 Legal Limited",
         "salary_min": 57000.0,
         "salary_max": 60000.0,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "Senior Paralegal",
         "company": "Lyons Davidson Solicitors",
         "salary_min": 35000.0,
         "salary_max": 35000.0,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "Senior Paralegal - Catastrophic Injury",
         "company": "TSR Legal",
         "salary_min": 28000.0,
         "salary_max": 35000.0,
-        "days_on_market": 26
+        "days_on_market": 27
       },
       {
         "title": "Serious Injury Lawyer",
         "company": "Thompsons Solicitors",
         "salary_min": 43009.0,
         "salary_max": 46327.0,
-        "days_on_market": 42
+        "days_on_market": 43
       },
       {
         "title": "Residential Property Lawyer",
         "company": "Mallory Pryce",
         "salary_min": 43423.61,
         "salary_max": 43423.61,
-        "days_on_market": 52
+        "days_on_market": 53
       },
       {
         "title": "Real Estate Paralegal",
         "company": "Cms Cmno Llp",
         "salary_min": 35359.48,
         "salary_max": 35359.48,
-        "days_on_market": 64
+        "days_on_market": 65
       },
       {
         "title": "Conveyancing Solicitor",
         "company": "Elite Touch Group",
         "salary_min": 50341.44,
         "salary_max": 50341.44,
-        "days_on_market": 199
+        "days_on_market": 200
       },
       {
         "title": "Qualified Property Lawyer",
         "company": "Lyons Bowe",
         "salary_min": 35000.0,
         "salary_max": 45000.0,
-        "days_on_market": 260
+        "days_on_market": 261
       }
     ]
   },
   {
     "category": "Legacy (Tourism/Retail)",
-    "vacancies": 51,
-    "friction": 17.7,
+    "vacancies": 52,
+    "friction": 18.5,
     "target": 30,
     "jobs": [
       {
-        "title": "Business Analyst, Retail & Ecommerce",
-        "company": "Tria Recruitment",
-        "salary_min": 60000.0,
-        "salary_max": 60000.0,
+        "title": "Casual Retail Assistant",
+        "company": "GSF Car Parts",
+        "salary_min": 20233.99,
+        "salary_max": 20233.99,
         "days_on_market": 0
       },
       {
-        "title": "Retail Cleaner",
-        "company": "Arcus FM Limited",
-        "salary_min": 19478.82,
-        "salary_max": 19478.82,
-        "days_on_market": 1
-      },
-      {
-        "title": "Retail Development Manager",
-        "company": "Zachary Daniels",
-        "salary_min": 40000.0,
-        "salary_max": 40000.0,
-        "days_on_market": 2
+        "title": "Sunday Retail Keyholder - City Centre",
+        "company": "St Peter's Hospice",
+        "salary_min": 25438.0,
+        "salary_max": 25731.0,
+        "days_on_market": 0
       },
       {
         "title": "Casual Waiter / Waitress",
         "company": "The River Grille at The Bristol",
         "salary_min": 26436.0,
         "salary_max": 26436.0,
-        "days_on_market": 2
+        "days_on_market": 3
+      },
+      {
+        "title": "Retail Development Manager",
+        "company": "Zachary Daniels",
+        "salary_min": 40000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 3
       },
       {
         "title": "Retail Shift Manager",
         "company": "Lidl GB",
         "salary_min": 43090.82,
         "salary_max": 43090.82,
-        "days_on_market": 3
-      },
-      {
-        "title": "Retail Shift Manager (Hiring Immediately)",
-        "company": "Lidl",
-        "salary_min": 42458.58,
-        "salary_max": 42458.58,
-        "days_on_market": 3
-      },
-      {
-        "title": "Retail Shift Manager",
-        "company": "Lidl GB",
-        "salary_min": 43170.7,
-        "salary_max": 43170.7,
-        "days_on_market": 3
-      },
-      {
-        "title": "Retail Shift Manager",
-        "company": "Lidl",
-        "salary_min": 42917.46,
-        "salary_max": 42917.46,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
         "title": "Retail Shift Manager (Hiring Immediately)",
         "company": "Lidl",
         "salary_min": 42537.37,
         "salary_max": 42537.37,
-        "days_on_market": 3
+        "days_on_market": 4
+      },
+      {
+        "title": "Retail Shift Manager",
+        "company": "Lidl GB",
+        "salary_min": 43170.7,
+        "salary_max": 43170.7,
+        "days_on_market": 4
       },
       {
         "title": "Retail Shift Manager",
         "company": "Lidl",
-        "salary_min": 43327.68,
-        "salary_max": 43327.68,
-        "days_on_market": 3
+        "salary_min": 42917.46,
+        "salary_max": 42917.46,
+        "days_on_market": 4
+      },
+      {
+        "title": "Retail Shift Manager (Hiring Immediately)",
+        "company": "Lidl",
+        "salary_min": 42458.58,
+        "salary_max": 42458.58,
+        "days_on_market": 4
       },
       {
         "title": "Waiter",
         "company": "Harbour House",
         "salary_min": 24814.57,
         "salary_max": 24814.57,
-        "days_on_market": 3
+        "days_on_market": 4
       },
       {
-        "title": "Retail Store Manager",
-        "company": "The Works",
-        "salary_min": 33610.03,
-        "salary_max": 33610.03,
+        "title": "Retail Shift Manager",
+        "company": "Lidl",
+        "salary_min": 43327.68,
+        "salary_max": 43327.68,
         "days_on_market": 4
       },
       {
@@ -4492,34 +4499,27 @@
         "company": "Bardwood Support Services Limited",
         "salary_min": 26436.0,
         "salary_max": 26436.0,
-        "days_on_market": 4
+        "days_on_market": 5
+      },
+      {
+        "title": "Retail Store Manager",
+        "company": "The Works",
+        "salary_min": 33610.03,
+        "salary_max": 33610.03,
+        "days_on_market": 5
       },
       {
         "title": "Customer Service Coordinator",
         "company": "Vistry Group",
         "salary_min": 0.0,
         "salary_max": 41.0,
-        "days_on_market": 5
+        "days_on_market": 6
       },
       {
         "title": "Chef De Partie, Hotel Du Vin - Bristol",
         "company": "Hotel Du Vin",
         "salary_min": 31408.0,
         "salary_max": 31408.0,
-        "days_on_market": 7
-      },
-      {
-        "title": "Sunday Retail Keyholder - City Centre",
-        "company": "St Peter's Hospice",
-        "salary_min": 25438.0,
-        "salary_max": 25731.0,
-        "days_on_market": 8
-      },
-      {
-        "title": "Hotel Financial Controller - Somerset",
-        "company": "James Webber Recruitment",
-        "salary_min": 50000.0,
-        "salary_max": 50000.0,
         "days_on_market": 8
       },
       {
@@ -4530,24 +4530,38 @@
         "days_on_market": 8
       },
       {
-        "title": "Bar And Restaurant Supervisor, Hotel Du Vin - Bristol",
-        "company": "Hotel Du Vin",
-        "salary_min": 28680.6,
-        "salary_max": 28680.6,
-        "days_on_market": 8
+        "title": "Sunday Retail Keyholder - City Centre",
+        "company": "St Peter's Hospice",
+        "salary_min": 25438.0,
+        "salary_max": 25731.0,
+        "days_on_market": 9
       },
       {
         "title": "Waiter/ Waitress, Hotel Du Vin - Bristol",
         "company": "Hotel Du Vin",
         "salary_min": 27409.35,
         "salary_max": 27409.35,
-        "days_on_market": 8
+        "days_on_market": 9
       },
       {
-        "title": "Retail Development Manager",
-        "company": "Zachary Daniels",
-        "salary_min": 35000.0,
-        "salary_max": 40000.0,
+        "title": "Bar And Restaurant Supervisor, Hotel Du Vin - Bristol",
+        "company": "Hotel Du Vin",
+        "salary_min": 28680.6,
+        "salary_max": 28680.6,
+        "days_on_market": 9
+      },
+      {
+        "title": "Hotel Financial Controller - Somerset",
+        "company": "James Webber Recruitment",
+        "salary_min": 50000.0,
+        "salary_max": 50000.0,
+        "days_on_market": 9
+      },
+      {
+        "title": "Retail Shop Manager - Downend",
+        "company": "St Peter's Hospice",
+        "salary_min": 30913.0,
+        "salary_max": 33063.0,
         "days_on_market": 9
       },
       {
@@ -4555,97 +4569,97 @@
         "company": "St Peter's Hospice",
         "salary_min": 21215.0,
         "salary_max": 24852.0,
-        "days_on_market": 9
+        "days_on_market": 10
+      },
+      {
+        "title": "Retail Development Manager",
+        "company": "Zachary Daniels",
+        "salary_min": 35000.0,
+        "salary_max": 40000.0,
+        "days_on_market": 10
       },
       {
         "title": "Retail Keyholder - Nailsea (ftc)",
         "company": "St Peter's Hospice",
         "salary_min": 25438.0,
         "salary_max": 25731.0,
-        "days_on_market": 9
+        "days_on_market": 10
       },
       {
         "title": "Retail Assistant",
         "company": "GSF Car Parts",
         "salary_min": 24770.74,
         "salary_max": 24770.74,
-        "days_on_market": 10
+        "days_on_market": 11
       },
       {
         "title": "Retail Assistant Manager Kingswood Clearance",
         "company": "St Peter's Hospice",
         "salary_min": 25438.0,
         "salary_max": 26024.0,
-        "days_on_market": 10
-      },
-      {
-        "title": "Hotel Housekeepers",
-        "company": "Berkeley Scott",
-        "salary_min": 26436.0,
-        "salary_max": 26436.0,
-        "days_on_market": 12
+        "days_on_market": 11
       },
       {
         "title": "Retail Supervisor",
         "company": "Cotswold Outdoor Group Ltd",
         "salary_min": 28080.0,
         "salary_max": 28080.0,
-        "days_on_market": 12
+        "days_on_market": 13
+      },
+      {
+        "title": "Hotel Housekeepers",
+        "company": "Berkeley Scott",
+        "salary_min": 26436.0,
+        "salary_max": 26436.0,
+        "days_on_market": 13
       },
       {
         "title": "Hotel - Duty Manager",
         "company": "Whitbread",
         "salary_min": 40540.62,
         "salary_max": 40540.62,
-        "days_on_market": 12
+        "days_on_market": 13
       },
       {
         "title": "Retail Area Support Officer",
         "company": "OCS Group",
         "salary_min": 24238.94,
         "salary_max": 24238.94,
-        "days_on_market": 14
+        "days_on_market": 15
       },
       {
         "title": "Retail Designer",
         "company": "Harding+",
         "salary_min": 40991.64,
         "salary_max": 40991.64,
-        "days_on_market": 15
-      },
-      {
-        "title": "Waiter / Waitress",
-        "company": "Slug And Lettuce",
-        "salary_min": 16640.0,
-        "salary_max": 26644.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Retail Merchandiser PT Bristol",
         "company": "Dee Set",
         "salary_min": 26436.0,
         "salary_max": 26436.0,
-        "days_on_market": 15
+        "days_on_market": 16
       },
       {
         "title": "Fleet Manager - Cruise Retail Leadership at Sea",
         "company": "Harding+",
         "salary_min": 35742.5,
         "salary_max": 35742.5,
-        "days_on_market": 15
+        "days_on_market": 16
+      },
+      {
+        "title": "Waiter / Waitress",
+        "company": "Slug And Lettuce",
+        "salary_min": 16640.0,
+        "salary_max": 26644.0,
+        "days_on_market": 16
       },
       {
         "title": "Hotel Kitchen - Team Member",
         "company": "Whitbread",
         "salary_min": 33175.82,
         "salary_max": 33175.82,
-        "days_on_market": 16
-      },
-      {
-        "title": "HR Business Partner - Retail",
-        "company": "Hays",
-        "salary_min": 65000.0,
-        "salary_max": 70000.0,
         "days_on_market": 17
       },
       {
@@ -4653,112 +4667,119 @@
         "company": "Rec-Revolution Limited",
         "salary_min": 26436.0,
         "salary_max": 27040.0,
-        "days_on_market": 17
+        "days_on_market": 18
+      },
+      {
+        "title": "HR Business Partner - Retail",
+        "company": "Hays",
+        "salary_min": 65000.0,
+        "salary_max": 70000.0,
+        "days_on_market": 18
       },
       {
         "title": "Retail Sales Advisor - 16 hours",
         "company": "DFS",
         "salary_min": 26400.07,
         "salary_max": 26400.07,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Retail Assistant",
         "company": "Company Shop Group",
         "salary_min": 29865.31,
         "salary_max": 29865.31,
-        "days_on_market": 19
+        "days_on_market": 20
       },
       {
         "title": "Retail Security Officer",
         "company": "Bardwood",
         "salary_min": 27925.06,
         "salary_max": 27925.06,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Waiter/ Waitress",
         "company": "Hotel Du Vin",
         "salary_min": 26751.29,
         "salary_max": 26751.29,
-        "days_on_market": 21
+        "days_on_market": 22
       },
       {
         "title": "Retail Shop Fitter",
         "company": "People Solutions",
         "salary_min": 31200.0,
         "salary_max": 35360.0,
-        "days_on_market": 22
+        "days_on_market": 23
       },
       {
         "title": "Hotel Kitchen Manager",
         "company": "Whitbread",
         "salary_min": 39064.8,
         "salary_max": 39064.8,
-        "days_on_market": 23
+        "days_on_market": 24
       },
       {
         "title": "Hotel Porter",
         "company": "Thornbury Castle",
         "salary_min": 23062.1,
         "salary_max": 23062.1,
-        "days_on_market": 23
-      },
-      {
-        "title": "Retail Sales Advisor - 16 hours",
-        "company": "DFS Furniture Ltd",
-        "salary_min": 20000.0,
-        "salary_max": 20000.0,
-        "days_on_market": 26
+        "days_on_market": 24
       },
       {
         "title": "Retail Assistant",
         "company": "Bristol SU",
         "salary_min": 25113.0,
         "salary_max": 25113.0,
-        "days_on_market": 26
+        "days_on_market": 27
+      },
+      {
+        "title": "Retail Sales Advisor - 16 hours",
+        "company": "DFS Furniture Ltd",
+        "salary_min": 20000.0,
+        "salary_max": 20000.0,
+        "days_on_market": 27
       },
       {
         "title": "Retail Growth Apprentice - Apprenticeship Led Role - 18 Months FTC",
         "company": "Allwyn UK",
         "salary_min": 23990.27,
         "salary_max": 23990.27,
-        "days_on_market": 36
+        "days_on_market": 37
       },
       {
         "title": "Retail Sales Associate",
         "company": "Harding+",
         "salary_min": 30322.78,
         "salary_max": 30322.78,
-        "days_on_market": 46
+        "days_on_market": 47
       },
       {
         "title": "Immediate Start Bristol | Earn \u00a33,500\u2013\u00a37,500 per Month | Retail Sales Role",
         "company": "Ted Experience",
         "salary_min": 37688.75,
         "salary_max": 37688.75,
-        "days_on_market": 52
+        "days_on_market": 53
       },
       {
         "title": "Store Manager \u2013 Cruise Retail",
         "company": "Harding+",
         "salary_min": 41021.94,
         "salary_max": 41021.94,
-        "days_on_market": 73
-      },
-      {
-        "title": "Retail Sales Associate - Japanese Speaking",
-        "company": "Harding+",
-        "salary_min": 29707.68,
-        "salary_max": 29707.68,
-        "days_on_market": 102
+        "days_on_market": 74
       },
       {
         "title": "Retail Sales Associate - Mandarin Speaking",
         "company": "Harding+",
         "salary_min": 34030.38,
         "salary_max": 34030.38,
-        "days_on_market": 102
+        "days_on_market": 103
+      },
+      {
+        "title": "Retail Sales Associate - Japanese Speaking",
+        "company": "Harding+",
+        "salary_min": 29707.68,
+        "salary_max": 29707.68,
+        "days_on_market": 103
       }
     ]
   }
